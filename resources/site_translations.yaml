@@ -1,0 +1,31 @@
+en:
+  title: "Investigation and Support"
+  placeholder: "What is up?"
+  support_title: "Support the Team"
+  support_text: "Thank you for considering supporting our team. Below are the bank account details for contributions."
+  bank_account_en: |
+    Account Name: Support Team Account
+    Account Number: 1234567890
+    Bank Name: Global Bank
+    SWIFT Code: GBANK123
+  bank_account_kz: |
+    Шот атауы: Қолдау Командасының Шоты
+    Шот нөмірі: 0987654321
+    Банк атауы: Қазақстан Банкі
+    SWIFT коды: KZBANK456
+
+kz:
+  title: "Зерттеу және Қолдау"
+  placeholder: "Не жаңалық?"
+  support_title: "Команданы Қолдау"
+  support_text: "Командамызды қолдағаныңыз үшін рахмет. Төменде қолдау үшін банк шоттарының деректері берілген."
+  bank_account_en: |
+    Account Name: Support Team Account
+    Account Number: 1234567890
+    Bank Name: Global Bank
+    SWIFT Code: GBANK123
+  bank_account_kz: |
+    Шот атауы: Қолдау Командасының Шоты
+    Шот нөмірі: 0987654321
+    Банк атауы: Қазақстан Банкі
+    SWIFT коды: KZBANK456

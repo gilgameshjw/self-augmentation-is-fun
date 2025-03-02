@@ -1,0 +1,54 @@
+
+mock: true
+
+llm_providers:
+  openai:
+    api_key: sk-proj-...
+    model_version: "gpt-4o-2024-11-20" #"gpt-3.5-turbo-0125" # "gpt-4o"
+  claude:
+    api_key: "your_claude_api_key"
+    model_version: "claude-3.5"
+  deepseek:
+    api_key: "your_deepseek_api_key"
+    model_version: "deepseek-v3"
+
+report_types:
+  list:
+    - research_report
+
+translations:
+  file_translations: resources/site_translations.yaml
+
+browsers:
+  tavily:
+    api_key: tvly-dev...
+
+
+agent:
+  memory_depth: 5
+  thinking_depth: 5
+  model_llm: "openai"
+  personalities:
+    main_agent: 
+      personality: prompts/personality_main_agent.txt
+      avatar: resources/images/giraffe_0.png
+
+    coder:
+      personality: prompts/personality_coder.txt
+      avatar: resources/images/coder_0.png
+
+    researcher:
+      personality: prompts/personality_researcher.txt
+      avatar: resources/images/scientist_0.png
+
+    psychologist:
+      personality: prompts/personality_psychologist.txt
+      avatar: resources/images/psychologist_0.png
+
+    sexologist:
+      personality: prompts/personality_sexologist.txt
+      avatar: resources/images/sexologist_0.png
+
+    drdoc:
+      personality: prompts/personality_drdoc.txt
+      avatar: resources/images/drdoc_0.png
