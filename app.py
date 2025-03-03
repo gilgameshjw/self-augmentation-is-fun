@@ -6,6 +6,7 @@ from src.config import Config  # Import the Config class
 from src.utils import reset_page_language
 
 from pages2.chat import chat  # Import the Investigation page logic
+from pages2.about_us import about_us
 from pages2.support_page import support_page  # Import the Support page logic
 from pages2.support_page_2 import support_page_2  # Import the Support page logic
 
@@ -37,6 +38,8 @@ llm_providers = ["openai", "claude", "deepseek"]
 st.sidebar.title("LLM Provider")
 selected_provider = st.sidebar.radio("Select LLM Provider", options=llm_providers, index=0)
 if "provider" not in st.session_state or selected_provider != st.session_state["provider"]:
+    if selected_provider != "openai":
+        st.sidebar.warning("Currently only openai is supported, working on it!")   
     config.set_llm_provider(selected_provider)
     st.session_state["provider"] = selected_provider
 
@@ -55,6 +58,8 @@ language = st.sidebar.text_input(
 
 # if language changed, update config
 if language != st.session_state["language"]:
+    if language != "en":
+        st.sidebar.warning("Currently English only is supported")   
     reset_page_language(config, language)
 
 # set search agent
@@ -71,12 +76,15 @@ if "agent" not in st.session_state:
     st.session_state["agent"] = "config.agent"
 
 # Top navigation bar
-pages = ["Chat", "Support us", "Donate"]
+pages = ["Chat", "About Us", "Support us", "Donate"]
 selected_page = st.selectbox("Pages", pages, index=0)
 
 # Load the selected page
 if selected_page == "Chat":
     chat(config)  # Call the Investigation page logic
+
+elif selected_page == "About Us":
+    about_us(config)
     
 elif selected_page == "Support us":
     support_page(config)  # Call the Support page logic

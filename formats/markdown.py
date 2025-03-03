@@ -1,4 +1,9 @@
 
+
+import markdown
+from weasyprint import HTML
+
+
 def text_to_markdown(text, filename):
     """
     Transforms a given text into a Markdown file.
@@ -21,21 +26,61 @@ def text_to_markdown(text, filename):
     print(f"Markdown file '{filename}' has been created successfully!")
 
 
-"""
-# Example usage:
-if __name__ == "__main__":
-    sample_text = " " "
-# Heading 1
-This is a paragraph under the first heading.
+def markdown_to_pdf(md_file_path, pdf_file_path):
+    """
+    Converts a Markdown file to a PDF.
 
-## Heading 2
-Here is a list:
-- Item 1
-- Item 2
-- Item 3
+    Args:
+        md_file_path (str): Path to the input Markdown file.
+        pdf_file_path (str): Path to save the output PDF file.
+    """
+    try:
+        # Step 1: Read the Markdown file
+        with open(md_file_path, "r", encoding="utf-8") as md_file:
+            markdown_content = md_file.read()
 
-### Subheading
-You can also include **bold text**, *italic text*, and [links](https://example.com).
-" " "
-text_to_markdown(sample_text, "example_output")
-"""
+        # Step 2: Convert Markdown to HTML
+        html_content = markdown.markdown(markdown_content)
+
+        # Step 3: Add basic HTML structure (optional)
+        full_html = f"""
+        <!DOCTYPE html>
+        <html>
+        <head>
+            <meta charset="UTF-8">
+            <style>
+                body {{
+                    font-family: Arial, sans-serif;
+                    line-height: 1.6;
+                    margin: 20px;
+                }}
+                h1, h2, h3, h4, h5, h6 {{
+                    color: #2c3e50;
+                }}
+                code {{
+                    background-color: #f4f4f4;
+                    padding: 2px 5px;
+                    border-radius: 3px;
+                }}
+                pre {{
+                    background-color: #f4f4f4;
+                    padding: 10px;
+                    border-radius: 5px;
+                    overflow-x: auto;
+                }}
+            </style>
+        </head>
+        <body>
+            {html_content}
+        </body>
+        </html>
+        """
+
+        # Step 4: Convert HTML to PDF using WeasyPrint
+        HTML(string=full_html).write_pdf(pdf_file_path)
+
+        print(f"PDF successfully created at: {pdf_file_path}")
+
+    except Exception as e:
+        print(f"An error occurred: {e}")
+

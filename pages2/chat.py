@@ -1,5 +1,6 @@
 
 import os
+import base64
 import streamlit as st
 import asyncio
 
@@ -46,13 +47,13 @@ def handle_file_upload():
 
         # Add a message indicating the file was uploaded
         file_message = f"Uploaded file: {uploaded_file.name}"
-        st.session_state.messages.append({"role": "user", "content": file_message, "avatar": "./resources/images/user_0.png"})
+        st.session_state.chat_history.append({"role": "user", "content": file_message, "avatar": "./resources/images/user_0.png"})
         with st.chat_message("user"):
             st.markdown(file_message)
 
         # Process the file (example: just acknowledge it for now)
         agent_response = f"Received file: {uploaded_file.name}"
-        st.session_state.messages.append({"role": "assistant", "content": agent_response, "avatar": "./resources/images/scientist_0.png"})
+        st.session_state.chat_history.append({"role": "assistant", "content": agent_response, "avatar": "./resources/images/scientist_0.png"})
         with st.chat_message("assistant"):
             st.markdown(agent_response)
 
@@ -67,7 +68,21 @@ def run_agent_answer(config, prompt, chat_history):
             chat_history=chat_history
         )
     with st.chat_message("assistant", avatar=response["avatar"]):
-       asyncio.run(stream_to_streamlit(response["output"]))  # Stream the response asynchronously
+        asyncio.run(stream_to_streamlit(response["output"]))  # Stream the response asynchronously
+
+        if "research_metadata" in response:
+            st.write(response["research_metadata"])
+        print(response)
+        # If there is a file to download, display the download button
+        if "file_data" in response:
+            if os.path.exists(response["file_data"]):
+                with open(response["file_data"], "rb") as file:
+                    st.download_button(
+                        label="Download File",
+                        data=file,
+                        file_name=os.path.basename(response["file_data"]),
+                    mime="application/octet-stream",
+                )
 
     return response
 
@@ -103,10 +118,6 @@ async def display_helper_async(role: str, text: str, avatar_path: str, width: in
             st.markdown(text)
 """
 
-
-import streamlit as st
-import os
-
 # Add custom CSS for the background image
 def set_background_image(image_path):
     """
@@ -130,151 +141,33 @@ def set_background_image(image_path):
     )
 
 
-"""
 def chat(config):
     # Set up the title and chat history
     st.title("JairGPT")
 
-    # Set the background image
-    background_image_path = "./resources/images/background_space_savannah.png"  # Replace with your image path
-    set_background_image(background_image_path)
+    # Initialize session state for chat history if it doesn't exist
+    if "chat_history" not in st.session_state:
+        st.session_state.chat_history = []
+        response = run_agent_answer(config, "Introduce yourself and your tools are.", st.session_state.chat_history[:config.memory_depth])
+        
+        #st.session_state.chat_history.append({"role": "assistant", "content": response["output"], "avatar": response["avatar"]})
 
-    # Display chat history
-    if "messages" in st.session_state:
-        for message in st.session_state.messages[:config.memory_depth]:
-            with st.chat_message(message["role"], avatar=message["avatar"]):
-                st.markdown(message["content"])
-        # st.markdown("---")
 
-    else:
-        st.session_state.messages = []
-        response = run_agent_answer(config, "Introduce yourself and what your tools are.", [])
-        # st.session_state.messages.append({"role": "assistant", "content": response["output"], "avatar": response["avatar"]})
+    # Display the chat history
+    for message in st.session_state.chat_history:
+        with st.chat_message(message["role"], avatar=message["avatar"]):
+            st.markdown(message["content"])
 
-    # Chat input
-    prompt = st.chat_input("Your text here:")
-    # File Upload
-    # handle_file_upload()
-    if prompt:
-        # Add user message to the chat history
-        st.session_state.messages.append({"role": "user", "content": prompt, "avatar": "./resources/images/user_0.png"}) 
+    # User input
+    user_input = st.chat_input("Type your message here...")
+    if user_input:
+        st.session_state.chat_history.append({"role": "user", "content": user_input, "avatar": "./resources/images/user_0.png"}) 
         with st.chat_message("user", avatar="./resources/images/user_0.png"):
-            st.markdown(prompt)
-    response = run_agent_answer(config, prompt, st.session_state.messages[:config.memory_depth])
-    if "research_metadata" in response:
-        st.write(response["research_metadata"])
-    
-    # Check if the response contains file data and create a download button
-    if "file_data" in response:
-        file_path = response["file_data"]
-        if file_path and os.path.exists(file_path):
-            # st.warning("File not found or empty.")
-            with open(file_path, "rb") as file:
-                st.download_button(
-                    label="Download File",
-                    data=file,
-                    file_name=file_path.split("/")[-1],  # Extract file name from path
-                    mime="application/octet-stream",  # Generic MIME type
-                )
-    # Add assistant message to the chat history
-    st.session_state.messages.append({"role": "assistant", "content": response["output"], "avatar": response["avatar"]})
+            st.markdown(user_input)
 
-"""
-
-
-import streamlit as st
-import os
-import base64
-
-# Function to set the background image using Base64 encoding
-def set_background_image(image_path):
-    """
-    Set a background image for the Streamlit app using Base64 encoding.
-    
-    Args:
-        image_path (str): Path to the background image file.
-    """
-    with open(image_path, "rb") as img_file:
-        img_data = img_file.read()
-        encoded_image = base64.b64encode(img_data).decode("utf-8")
-
-
-    st.markdown(
-        f"""
-        <style>
-        .stApp {{
-            background-image: url("data:image/png;base64,{encoded_image}");
-            background-size: cover;
-            background-repeat: no-repeat;
-            background-attachment: fixed;
-        }}
-        .stApp::before {{
-            content: '';
-            position: fixed;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            background-color: rgba(255, 255, 255, 0.8); /* Adjust opacity here */
-            z-index: -1;
-        }}
-        </style>
-        """,
-        unsafe_allow_html=True
-    )
-
-
-def chat(config):
-    # Set up the title and chat history
-    st.title("JairGPT")
-    
-    # Set the background image
-    background_image_path = "./resources/images/background_space_savannah.png"  # Replace with your image path
-    if os.path.exists(background_image_path):
-        set_background_image(background_image_path)
-    else:
-        st.warning(f"Background image not found at path: {background_image_path}")
-    
-    # Display chat history
-    if "messages" in st.session_state:
-        for message in st.session_state.messages[:config.memory_depth]:
-            with st.chat_message(message["role"], avatar=message["avatar"]):
-                st.markdown(message["content"])
-        # st.markdown("---")
-    else:
-        st.session_state.messages = []
-        response = run_agent_answer(config, "Introduce yourself and what your tools are.", [])
-        # st.session_state.messages.append({"role": "assistant", "content": response["output"], "avatar": response["avatar"]})
-    
-    # Chat input
-    prompt = st.chat_input("Your text here:")
-    # File Upload
-    # handle_file_upload()
-    if prompt:
-        # Add user message to the chat history
-        st.session_state.messages.append({"role": "user", "content": prompt, "avatar": "./resources/images/user_0.png"}) 
-        with st.chat_message("user", avatar="./resources/images/user_0.png"):
-            st.markdown(prompt)
-    
-    response = run_agent_answer(config, prompt, st.session_state.messages[:config.memory_depth])
-    if "research_metadata" in response:
-        st.write(response["research_metadata"])
-    
-    # Check if the response contains file data and create a download button
-    if "file_data" in response:
-        file_path = response["file_data"]
-        if file_path and os.path.exists(file_path):
-            # st.warning("File not found or empty.")
-            with open(file_path, "rb") as file:
-                st.download_button(
-                    label="Download File",
-                    data=file,
-                    file_name=file_path.split("/")[-1],  # Extract file name from path
-                    mime="application/octet-stream",  # Generic MIME type
-                )
-    
-    # Add assistant message to the chat history
-    st.session_state.messages.append({"role": "assistant", "content": response["output"], "avatar": response["avatar"]})
+        response = run_agent_answer(config, user_input, st.session_state.chat_history[:config.memory_depth])
+        
+        st.session_state.chat_history.append({"role": "assistant", "content": response["output"], "avatar": response["avatar"]})
 
 # Example usage
 # chat(config)

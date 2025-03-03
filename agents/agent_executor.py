@@ -77,17 +77,7 @@ class AgentExecutor:
         print(prompt)
         result = self.llm.invoke(prompt)
         tool_name = result.content.strip()
-        print(f"decide_tool:")
-        print(f"tool_name: {tool_name}")
-        print("-----")
-
-        print(tool_name.strip() in self.tools)
-        print(f"self.tools {self.tools.keys()}")
-        print(1234567)
-        print(tool_name == "Psychologist")
-        # write tool_name to file
-        with open("tool_name.txt", "w") as f:
-            f.write(tool_name)
+        print(tool_name)
 
         # Return the tool name if it matches one of the available tools
         if tool_name in self.tools:
