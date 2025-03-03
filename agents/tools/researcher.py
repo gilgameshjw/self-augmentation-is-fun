@@ -123,7 +123,7 @@ User Query:
         print(f"time: {research_time}")
 
         # Save the full report to a temporary file
-        report_file_path = "./tmp/report.md"
+        report_file_path = "tmp/report.md"
         os.makedirs(os.path.dirname(report_file_path), exist_ok=True)  # Ensure the directory exists
         with open(report_file_path, "w", encoding="utf-8") as f:
             f.write(research_report)

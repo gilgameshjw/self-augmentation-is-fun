@@ -1,111 +1,116 @@
-# Comparative Analysis of the Weights of Humans and Ants
+# Research Report: Startups Building New AI Architectures
 
 ## Introduction
 
-The comparison of the collective weight of humans and ants offers an intriguing perspective into the scale of biodiversity and the ecological significance of these two vastly different species. Humans, as the dominant species on Earth, have a profound impact on the planet's ecosystems. However, ants, despite their diminutive size, play critical roles in maintaining ecological balance. This report aims to explore the relative weights of humans and ants, leveraging recent research and data to provide a comprehensive analysis. The findings are based on reliable sources, including scientific studies, expert commentary, and reputable publications.
+The artificial intelligence (AI) landscape is undergoing a transformative phase, with startups at the forefront of innovation. While transformer-based architectures have dominated the AI field since the seminal 2017 paper *Attention Is All You Need*, a new wave of startups is exploring alternative architectures to address the limitations of transformers, such as high computational costs, inefficiency in certain tasks, and scalability challenges. These startups are experimenting with novel approaches, including diffusion models, liquid neural networks, and brain-inspired systems, to push the boundaries of AI capabilities. This report provides an in-depth analysis of startups building new AI architectures, highlighting their innovations, strategies, and potential impact on the industry.
 
 ---
 
-## Estimating the Weight of Humans
+## The Need for New AI Architectures
 
-The global human population is currently estimated to exceed 8 billion as of 2025. The average weight of an adult human is approximately **65 kilograms (kg)** ([OpenCurriculum](https://opencurriculum.org/6125/8ee-ants-versus-humans/)). Using these figures, the total weight of all humans on Earth can be calculated as follows:
-
-\[
-\text{Total Human Weight} = \text{Average Weight per Human} \times \text{Global Population}
-\]
-
-\[
-\text{Total Human Weight} = 65 \, \text{kg} \times 8,000,000,000 \, \text{people} = 520,000,000,000 \, \text{kg} \, (520 \, \text{million tonnes})
-\]
-
-Thus, the total weight of all humans on Earth is approximately **520 million tonnes**.
+Transformer-based models like GPT and BERT have revolutionized natural language processing (NLP) and generative AI. However, their limitations, including quadratic computational costs, inefficiency in handling long context lengths, and reliance on massive datasets, have spurred interest in alternative architectures. Startups are addressing these challenges by developing architectures that are more efficient, adaptable, and specialized for diverse applications ([Digvijay, 2024](https://medium.com/@digvijay.qi/alternatives-to-transformer-based-architectures-3f41faeaacab); [Cheah, 2023](https://substack.tech-talk-cto.com/p/introducing-rwkv-an-alternative-to)).
 
 ---
 
-## Estimating the Weight of Ants
+## Startups Exploring New AI Architectures
 
-### Ant Population and Average Weight
+### 1. **Liquid AI**
+Liquid AI, a Massachusetts Institute of Technology (MIT) spinoff, has introduced *Liquid Foundation Models (LFMs)*, which deviate from the transformer architecture. These models are designed to be multimodal and efficient, focusing on building from "first principles" rather than relying on pre-trained transformers. Liquid AI's approach aims to create smaller, faster, and more cost-effective models that can handle diverse tasks ([VentureBeat, 2025](https://venturebeat.com/ai/mit-spinoff-liquid-debuts-non-transformer-ai-models-and-theyre-already-state-of-the-art/)).
 
-Recent studies estimate the global population of ants to be around **20 quadrillion (20,000,000,000,000,000)** ([RNZ News](https://www.rnz.co.nz/news/world/475191/researchers-calculate-there-are-2-point-5-million-ants-for-every-human), [NBC News](https://www.nbcnews.com/science/science-news/ants-how-many-number-earth-planet-population-humans-rcna48534)). The average weight of an ant is approximately **4 milligrams (mg)**, or **0.004 grams (g)** ([BBC News](https://www.bbc.com/news/magazine-29281253)).
-
-### Total Weight of Ants
-
-Using these figures, the total weight of all ants can be calculated as follows:
-
-\[
-\text{Total Ant Weight} = \text{Average Weight per Ant} \times \text{Global Ant Population}
-\]
-
-\[
-\text{Total Ant Weight} = 0.004 \, \text{g} \times 20,000,000,000,000,000 \, \text{ants} = 80,000,000,000,000 \, \text{g} \, (80 \, \text{million tonnes})
-\]
-
-Thus, the total weight of all ants on Earth is approximately **80 million tonnes**.
+Key Features:
+- Multimodal capabilities for handling text, images, and other data types.
+- Focus on efficiency and cost reduction.
+- Designed for adaptability across various applications.
 
 ---
 
-## Comparing the Weights of Humans and Ants
+### 2. **Inception**
+Inception, founded by Stanford computer science professor Stefano Ermon, has developed diffusion-based large language models (DLMs). Unlike transformers, DLMs leverage diffusion technology, which has been primarily used in image and video generation. Inception claims that its DLMs are up to 10 times faster and 10 times cheaper than traditional large language models (LLMs) ([TechCrunch, 2025](https://techcrunch.com/2025/02/26/inception-emerges-from-stealth-with-a-new-type-of-ai-model/)).
 
-### Direct Comparison
-
-The total weight of humans (520 million tonnes) is significantly greater than the total weight of ants (80 million tonnes). In fact, humans outweigh ants by a factor of approximately **6.5**. This finding contradicts earlier claims by renowned biologists Edward O. Wilson and Bert Hölldobler, who suggested that the weight of ants might equal or surpass that of humans ([BBC News](https://www.bbc.com/news/magazine-29281253)).
-
-### Biomass Perspective
-
-While humans outweigh ants in absolute terms, the biomass of ants remains remarkable. Ants constitute approximately **12 million tonnes of dry carbon**, which is equivalent to **20% of the total human biomass** ([The Conversation](https://theconversation.com/earth-harbours-20-000-000-000-000-000-ants-and-they-weigh-more-than-wild-birds-and-mammals-combined-190831)). This dry carbon weight excludes water and other bodily elements, meaning the total biomass of ants could be even higher if these factors were included.
+Key Innovations:
+- Diffusion-based architecture for text generation.
+- Optimized for efficient GPU utilization.
+- Deployment options include APIs, on-premises, and edge devices.
 
 ---
 
-## Factors Influencing Ant Biomass Estimates
+### 3. **RWKV**
+RWKV is an emerging alternative to transformers that combines the strengths of recurrent neural networks (RNNs) and transformers. This architecture addresses the quadratic computational costs of transformers, making it more efficient for handling long sequences. RWKV is particularly suited for tasks requiring extended context lengths ([Cheah, 2023](https://substack.tech-talk-cto.com/p/introducing-rwkv-an-alternative-to)).
 
-### Habitat Distribution
-
-Ant populations are unevenly distributed across the planet. They are most abundant in tropical regions, where their density peaks in forests and arid areas ([Times Now](https://www.timesnownews.com/technology-science/study-finds-there-are-2-5-million-ants-per-human-on-earth-with-a-biomass-larger-than-all-bird-and-mammals-combined-article-94342372), [NBC News](https://www.nbcnews.com/science/science-news/ants-how-many-number-earth-planet-population-humans-rcna48534)). Human-made habitats, such as urban areas, tend to have lower ant densities.
-
-### Variability in Ant Size and Weight
-
-Ant species vary significantly in size and weight. For instance, some species weigh as little as **1 milligram**, while others can weigh up to **60 milligrams** ([BBC News](https://www.bbc.com/news/magazine-29281253)). This variability complicates efforts to calculate the total biomass of ants accurately.
-
-### Understudied Regions
-
-Certain regions, such as Africa, remain underrepresented in ant population studies. This lack of data may lead to conservative estimates of global ant biomass ([RNZ News](https://www.rnz.co.nz/news/world/475191/researchers-calculate-there-are-2-point-5-million-ants-for-every-human)).
+Key Benefits:
+- Linear computational costs, enabling scalability.
+- Efficient handling of long-context tasks.
+- Open-source development model fostering community contributions.
 
 ---
 
-## Ecological Significance of Ants
+### 4. **Sakana AI**
+Sakana AI, founded by one of the authors of the seminal Google research paper on transformers, is exploring "nature-inspired" AI architectures. The company recently released three Japanese-language models and is focusing on neural attention memory models (NAMMs). These models aim to enhance the efficiency and transferability of transformers ([CB Insights, 2024](https://cbi-www.lighthouse.ai/research/report/artificial-intelligence-top-startups-2024/)).
 
-Ants play a crucial role in maintaining ecological balance. They aerate soil, disperse seeds, and recycle nutrients through decomposition ([The Conversation](https://theconversation.com/earth-harbours-20-000-000-000-000-000-ants-and-they-weigh-more-than-wild-birds-and-mammals-combined-190831)). Additionally, ants are integral to food chains, serving as prey for numerous animals and predators of smaller invertebrates.
-
-Their collective impact is further highlighted by their ability to move up to **13 tonnes of soil per hectare annually** ([NBC News](https://www.nbcnews.com/science/science-news/ants-how-many-number-earth-planet-population-humans-rcna48534)). This activity influences nutrient cycling and plant growth, underscoring their ecological value.
+Key Features:
+- Nature-inspired design principles.
+- Focus on efficiency and adaptability.
+- High valuation per employee, reflecting its innovative potential.
 
 ---
 
-## Misconceptions and Revised Estimates
+### 5. **DeepSeek**
+DeepSeek has developed the R1 reasoning model, which offers performance comparable to OpenAI's o1 model at just 2% of the cost. R1 is optimized for older hardware and uses novel reinforcement learning techniques to reduce training costs. This approach democratizes access to advanced AI capabilities, making it accessible to startups and smaller organizations ([Forbes, 2025](https://www.forbes.com/sites/garydrenik/2025/02/26/how-ai-startups-are-evaluating-the-latest-model-advancements/)).
 
-### Historical Claims
+Key Innovations:
+- Cost-effective model training and deployment.
+- Optimized for legacy hardware.
+- Focus on reasoning and decision-making tasks.
 
-The claim that ants weigh as much as humans originated from Wilson and Hölldobler's 1994 book, *Journey to the Ants*. Their estimate was based on older data and assumptions that have since been revised ([BBC News](https://www.bbc.com/news/magazine-29281253)).
+---
 
-### Modern Research
+### 6. **Other Notable Startups**
+- **Hum**: Focuses on architectures for scientific multimodal data and deliberate reasoning systems. Hum's models aim to transition from reactive responses to more human-like reasoning ([Hum, 2023](https://blog.hum.works/posts/trending-in-ai-new-architectures-and-deeper-reasoning)).
+- **Anduril**: Specializes in defense technology, leveraging AI for autonomous systems and situational awareness ([Forbes, 2024](https://www.forbes.com/lists/ai50/)).
+- **Figure AI**: Develops humanoid robots powered by advanced AI architectures ([Forbes, 2024](https://www.forbes.com/lists/ai50/)).
 
-Recent studies, such as those by Schultheiss et al. (2022), have provided more accurate estimates of ant populations and biomass. These studies rely on data from **489 studies** conducted across various habitats and continents ([PNAS](https://www.pnas.org/doi/10.1073/pnas.2201550119)).
+---
+
+## Emerging Trends in AI Architectures
+
+### 1. **Hybrid Approaches**
+Startups are combining different architectures to leverage their strengths. For example, transformer-CNN hybrids are being used for tasks like image captioning, while transformer-RNN hybrids are suited for sequential data processing ([Digvijay, 2024](https://medium.com/@digvijay.qi/alternatives-to-transformer-based-architectures-3f41faeaacab)).
+
+### 2. **Brain-Inspired Models**
+Brain-inspired architectures aim to replicate the learning mechanisms of the human brain. These models promise superior performance and efficiency for complex tasks ([Digvijay, 2024](https://medium.com/@digvijay.qi/alternatives-to-transformer-based-architectures-3f41faeaacab)).
+
+### 3. **Quantum Machine Learning**
+Quantum computing is emerging as a potential game-changer for AI architectures. Quantum machine learning could revolutionize the field by offering new paradigms for problem-solving ([Digvijay, 2024](https://medium.com/@digvijay.qi/alternatives-to-transformer-based-architectures-3f41faeaacab)).
+
+---
+
+## Challenges and Opportunities
+
+### Challenges
+- **High R&D Costs**: Developing new architectures requires significant investment in research and development.
+- **Market Adoption**: Convincing enterprises to adopt novel architectures over established transformers can be challenging.
+- **Regulatory Hurdles**: Ensuring compliance with ethical and data privacy standards is critical.
+
+### Opportunities
+- **Efficiency Gains**: New architectures promise to reduce computational costs and improve scalability.
+- **Specialized Applications**: Startups can target niche markets with architectures tailored to specific tasks.
+- **Democratization of AI**: Cost-effective models like DeepSeek's R1 make advanced AI accessible to smaller organizations.
 
 ---
 
 ## Conclusion
 
-In conclusion, the combined weight of all humans on Earth significantly exceeds that of all ants. Humans collectively weigh approximately **520 million tonnes**, while ants weigh around **80 million tonnes**. However, ants' ecological importance far outweighs their physical mass. Their roles in nutrient cycling, seed dispersal, and ecosystem engineering highlight their indispensable contributions to Earth's biodiversity.
-
-While earlier claims about ants equaling or surpassing human biomass have been debunked, the staggering number and collective impact of ants remain awe-inspiring. Future research should focus on refining estimates of ant populations and biomass, particularly in understudied regions, to better understand their ecological significance.
+Startups are playing a pivotal role in shaping the future of AI by developing innovative architectures that address the limitations of transformers. Companies like Liquid AI, Inception, RWKV, and Sakana AI are pioneering new approaches that promise to enhance efficiency, scalability, and adaptability. As the AI ecosystem continues to evolve, these startups are likely to drive the next wave of breakthroughs, enabling more versatile and impactful applications across industries.
 
 ---
 
 ## References
 
-1. RNZ News. (2022, September 21). Researchers calculate there are 2.5 million ants for every human. RNZ News. https://www.rnz.co.nz/news/world/475191/researchers-calculate-there-are-2-point-5-million-ants-for-every-human  
-2. NBC News. (2022, September 20). Earth's ant population of 20 quadrillion outnumbers humans by 2.5 million times, study says. NBC News. https://www.nbcnews.com/science/science-news/ants-how-many-number-earth-planet-population-humans-rcna48534  
-3. The Conversation. (2022, September 20). Earth harbours 20,000,000,000,000,000 ants – and they weigh more than wild birds and mammals combined. The Conversation. https://theconversation.com/earth-harbours-20-000-000-000-000-000-ants-and-they-weigh-more-than-wild-birds-and-mammals-combined-190831  
-4. BBC News. (2014, September 22). Are all the ants as heavy as all the humans? BBC News. https://www.bbc.com/news/magazine-29281253  
-5. Times Now. (2022, September 21). Study finds there are 2.5 million ants per human on Earth, with a biomass larger than all bird and mammals combined. Times Now. https://www.timesnownews.com/technology-science/study-finds-there-are-2-5-million-ants-per-human-on-earth-with-a-biomass-larger-than-all-bird-and-mammals-combined-article-94342372  
-6. OpenCurriculum. (n.d.). 8.EE Ants versus humans. OpenCurriculum. https://opencurriculum.org/6125/8ee-ants-versus-humans/  
-7. Proceedings of the National Academy of Sciences (PNAS). (2022). The abundance, biomass, and distribution of ants on Earth. PNAS. https://www.pnas.org/doi/10.1073/pnas.2201550119  
+- VentureBeat. (2025, February 26). MIT spinoff Liquid debuts small, efficient non-transformer AI models. VentureBeat. https://venturebeat.com/ai/mit-spinoff-liquid-debuts-non-transformer-ai-models-and-theyre-already-state-of-the-art/
+- TechCrunch. (2025, February 26). Inception emerges from stealth with a new type of AI model. TechCrunch. https://techcrunch.com/2025/02/26/inception-emerges-from-stealth-with-a-new-type-of-ai-model/
+- Substack Tech Talk CTO. (2023, September 4). Introducing RWKV - an alternative to transformers - and why alternatives matter. https://substack.tech-talk-cto.com/p/introducing-rwkv-an-alternative-to
+- CB Insights. (2024). AI 100: The most promising artificial intelligence startups of 2024. https://cbi-www.lighthouse.ai/research/report/artificial-intelligence-top-startups-2024/
+- Forbes. (2025, February 26). How AI startups are evaluating the latest model advancements. Forbes. https://www.forbes.com/sites/garydrenik/2025/02/26/how-ai-startups-are-evaluating-the-latest-model-advancements/
+- Medium. (2024, February 12). Alternatives to transformer-based architectures. Medium. https://medium.com/@digvijay.qi/alternatives-to-transformer-based-architectures-3f41faeaacab
+- Hum. (2023). Trending in AI: New architectures and deeper reasoning. Hum. https://blog.hum.works/posts/trending-in-ai-new-architectures-and-deeper-reasoning
+- Forbes. (2024). Forbes 2024 AI 50 List - Top Artificial Intelligence Startups. https://www.forbes.com/lists/ai50/

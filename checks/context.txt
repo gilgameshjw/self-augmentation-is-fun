@@ -1,471 +1,1026 @@
-Source: https://www.rnz.co.nz/news/world/475191/researchers-calculate-there-are-2-point-5-million-ants-for-every-human
-Title: Researchers calculate there are 2.5 million ants for every human | RNZ News
-Content: Researchers calculate there are 2.5 million ants for every human | RNZ News
-Navigation for News Categories
+Source: https://www.sequoiacap.com/article/ai-in-2025/
+Title: AI in 2025: Building Blocks Firmly in Place | Sequoia Capital
+Content: AI in 2025: Building Blocks Firmly in Place | Sequoia Capital
+Skip to main content
+AI in 2025: Building Blocks Firmly in Place
+Published December 9, 2024
 By
-Will Dunham
-Researchers estimate there are 20 quadrillion ants on the planet.
-Photo:
-Faris Algosaibi / CC BY 2.0
-The world's human population is forecast to surpass 8 billion in the coming months. Compared to ants, that is a mediocre milestone.
-Researchers have made the most thorough assessment to date of the global population of ants - insects that have colonised almost everywhere on the planet - and the estimated total is a mind-blowing 20 quadrillion of them, or approximately 2.5 million for every human.
-It should come as little surprise considering how ubiquitous these busy and social insects are and the fact that they have thrived since the age of dinosaurs, with the oldest-known ant fossil dating back about 100 million years to the Cretaceous Period.
+David Cahn
+2024 was AI’s primordial soup year. In 2025, AI’s foundations are solidifying.
+Published December 9, 2024
+By
+David Cahn
+Last January, we compared ChatGPT to AI’s “Big Bang” and predicted that 2024 would be AI’s “
+primordial soup
+” year. The AI ecosystem was abounding with new ideas and potential energy. It was a ripe moment for new entrepreneurs. “There is much potential in the air, and yet it is still amorphous,” we wrote at the time. “Vision is required to convert it into something real, tangible and, ultimately, impactful.”
+Today, the AI ecosystem has hardened. There are now five “finalists” in the
+race for biggest model
+. Nvidia’s highly anticipated Blackwell chip is shipping
+this month
+. Data centers, many of which were planned in early 2024, are entering full-on
+build mode
 
-Source: https://www.timesnownews.com/technology-science/study-finds-there-are-2-5-million-ants-per-human-on-earth-with-a-biomass-larger-than-all-bird-and-mammals-combined-article-94342372
-Title: Study finds there are 2.5 million ants per human on Earth, with a biomass larger than all bird and mammals combined | Technology & Science News, Times Now
-Content: Study finds there are 2.5 million ants per human on Earth, with a biomass larger than all bird and mammals combined | Technology & Science News, Times Now
-Open Popup
-Trending:
-Oscar Awards 2025
-India vs New Zealand
-Dream11 Prediction
-Paytm ED Notice
-Pune Rape Case
-CUET UG 2025 Date
-Rahul Gandhi
-Champions Trophy 2025
-news
-technology & science
-Study finds there are 2.5 million ants per human on Earth, with a biomass larger than all bird and mammals combined
-The research was based on 489 studies, spanning all continents, biomes, and habitats. Using this data, the researchers estimated the total number of ants to be 20 quadrillions.
-TN Science Desk
-Updated Sep 21, 2022, 10:47 IST
-While we have all wondered how many Ants are there on Earth, Scientists now have an estimate and it's mind-boggling. A
-new study
-puts the number to be around 20 quadrillion ants on Earth, roughly around 2.5 million ants for every human.
+Source: https://www.sequoiacap.com/article/ai-in-2025/
+Title: AI in 2025: Building Blocks Firmly in Place | Sequoia Capital
+Content: . Data centers, many of which were planned in early 2024, are entering full-on
+build mode
+. TSMC is building new fab capacity and Broadcom is working on custom AI chips: the entire
+supply chain
+has shifted into high gear. In every industry from healthcare to law to insurance, new AI initiatives are kicking off.
+If 2024 was the primordial soup year for AI, the building blocks are now firmly in place. AI’s potential is now congealing into something real and tangible—embodied by physical data centers that are rising up all across America from Salem, PA to Round Rock, TX to Mount Pleasant, WI. If 2024 was about new ideas abounding, 2025 will be about sifting through those ideas to see which really work.
+Below, we offer three predictions for the year ahead:
+1. LLM providers have evolved distinct superpowers—this should lead to incremental differentiation and a contested pecking order in 2025
 
-Source: https://www.timesnownews.com/technology-science/study-finds-there-are-2-5-million-ants-per-human-on-earth-with-a-biomass-larger-than-all-bird-and-mammals-combined-article-94342372
-Title: Study finds there are 2.5 million ants per human on Earth, with a biomass larger than all bird and mammals combined | Technology & Science News, Times Now
-Content: “Anyone who’s looked at ants and realized there are lots of them has probably wondered how many there may be in total – it’s just a question that’s on people’s minds,” says Patrick Schultheiss at the University of Hong Kong, who co-led the study with his colleague Sabine Nooten at the Julius Maximilian University of Würzburg in Germany.
-The research was based on 489 studies, spanning all continents, biomes, and habitats. Using this data, the researchers estimated the total number of ants to be 20 quadrillions.
-The total biomass of this global ant population – the collective weight of carbon in all individuals – is about 12 million tonnes. This is more than wild birds and mammals combined, which have total biomass of 2 million tonnes and 7 million tonnes, respectively. Humans, by comparison, have total biomass of 60 million tonnes.
+Source: https://startup.info/best-ai-startups/
+Title: Top 20 AI Startups To Watch in 2025
+Content: Conclusion
+As we head into 2025, the AI landscape is as dynamic and thrilling as ever. From companies revolutionizing generative AI and NLP to those spearheading robotics and data-centric solutions, these 20 startups exemplify the diversity and depth of innovation in the field. Each organization has carved out a unique niche—be it through open-source platforms, specialized healthcare applications, AI safety protocols, or transformative enterprise solutions. Taken together, they paint a picture of an industry at the cusp of reshaping how we live, work, and interact with technology.
+AI’s trajectory suggests continued investment, breakthroughs in fundamental research, and growing social discourse around responsible deployment. Initiatives to make AI more accessible, transparent, and ethical will become increasingly vital. Startups like Anthropic and Inflection AI remind us that this technology carries immense power—and with it, the responsibility to guide its development thoughtfully.
 
-Source: https://www.foxnews.com/science/researchers-estimate-global-ant-population-reached-20-quadrillion
-Title: Researchers estimate global ant population has reached 20 quadrillion | Fox News
-Content: Researchers have made the most thorough assessment to date of the
-global population of ants
-- insects that have colonized almost everywhere on the planet - and the estimated total is a mind-blowing 20 quadrillion of them, or approximately 2.5 million for every human.
-It should come as little surprise considering how ubiquitous these busy and social insects are and the fact that they have thrived since the
-age of dinosaurs
-, with the oldest-known ant fossil dating back about 100 million years to the Cretaceous Period.
-MOTH OUTBREAK IN NEW MEXICO FURTHER WEAKENING TREES AMID DROUGHT
-"Ants certainly play a very central role in almost every terrestrial ecosystem," said entomologist Patrick Schultheiss of the University of Würzburg in Germany and the University of Hong Kong, co-lead author of the study https://www.pnas.org/cgi/doi/10.1073/pnas.2201550119 published this week in the journal Proceedings of the
-National Academy of Sciences
-.
-
-Source: https://www.rnz.co.nz/news/world/475191/researchers-calculate-there-are-2-point-5-million-ants-for-every-human
-Title: Researchers calculate there are 2.5 million ants for every human | RNZ News
-Content: "Our dataset represents a massive collecting effort of thousands of scientists. We were then able to extrapolate the number of ants for different regions of the world and estimate their total global number and biomass," Schultheiss said.
-Tropical regions were found to harbour many more ants than other regions, with forests and drylands boasting more ants than urban areas.
-"There are certain parts of the world where we have little data and we cannot reach reliable estimates for all continents. Africa is one such example. We have long known that it is a very ant-rich continent but also very under-studied," Schultheiss said.
-Ants generally live in colonies, sometimes consisting of millions of them divided into groups with different roles such as workers, soldiers, and queens. The workers, all females, care for the bigger queen and her offspring, maintain the nest, and forage for food. Males mate with queens, then die.
-
-Source: https://www.rnz.co.nz/news/world/475191/researchers-calculate-there-are-2-point-5-million-ants-for-every-human
-Title: Researchers calculate there are 2.5 million ants for every human | RNZ News
-Content: Ants, whose closest relatives are bees and wasps, are native to nearly everywhere on Earth, as any picnicker knows, except Antarctica, Greenland, Iceland and some island nations.
-"I was amazed that the ants' biomass was higher than that of wild mammals and birds combined, and that it reaches 20 percent of the human biomass. That gives you an understanding of the scale of their impact," said insect ecologist and study co-lead author Sabine Nooten, also of the University of Würzburg and University of Hong Kong.
-"I find the enormous diversity of ants fascinating. They can be tiny or huge and show the most bizarre adaptations," Nooten added, citing a widespread ant genus called Strumigenys, known for long mouthparts with spikes used to hunt small invertebrates.
-The researchers based their analysis on 489 studies of ant populations spanning every continent where ants live.
-
-Source: https://www.timesnownews.com/technology-science/study-finds-there-are-2-5-million-ants-per-human-on-earth-with-a-biomass-larger-than-all-bird-and-mammals-combined-article-94342372
-Title: Study finds there are 2.5 million ants per human on Earth, with a biomass larger than all bird and mammals combined | Technology & Science News, Times Now
-Content: The researchers noted that the abundances of ground-dwelling ants are strongly concentrated in tropical and subtropical regions but vary substantially across habitats. The density of leaf-litter ants is highest in forests, while the numbers of actively ground-foraging ants are highest in arid regions.
-Previous estimates of the number of ants on Earth were “essentially educated guesses” that extrapolated from ant densities measured in one or two locations, says Schultheiss. The latest analysis aimed to be more accurate by looking at studies from all continents and written in different languages.
-"Our results provide a crucial baseline for exploring environmental drivers of ant-abundance patterns and for tracking the responses of insects to environmental change."
-Latest News
-Previous
-india
-Political Row Over Rohit Sharma's Weight As Congress Leader Defends 'Fat' Remark: 'Attacked For No Reason'
-entertainment news
-
-Source: https://www.foxnews.com/science/researchers-estimate-global-ant-population-reached-20-quadrillion
-Title: Researchers estimate global ant population has reached 20 quadrillion | Fox News
-Content: "I was amazed that the ants' biomass was higher than that of wild mammals and birds combined, and that it reaches 20% of the human biomass. That gives you an understanding of the scale of their impact," said insect ecologist and study co-lead author Sabine Nooten, also of the University of Würzburg and University of Hong Kong.
-"I find the enormous diversity of ants fascinating. They can be tiny or huge and show the most bizarre adaptations," Nooten added, citing a widespread ant genus called Strumigenys, known for long mouthparts with spikes used to hunt small invertebrates.
-CALIFORNIANS PLAGUED WITH FEET-EATING 'MINI-SHARK' BUGS
-The researchers based their analysis on 489 studies of ant populations spanning every continent where ants live.
-"Our dataset represents a massive collecting effort of thousands of scientists. We were then able to extrapolate the number of ants for different regions of the world and estimate their total global number and biomass," Schultheiss said.
-
-Source: https://www.foxnews.com/science/researchers-estimate-global-ant-population-reached-20-quadrillion
-Title: Researchers estimate global ant population has reached 20 quadrillion | Fox News
-Content: Tropical regions were found to harbor many more ants than other regions, with forests and dry lads boasting more ants than urban areas.
-"There are certain parts of the world where we have little data and we cannot reach reliable estimates for all continents. Africa is one such example. We have long known that it is a very ant-rich continent but also very under-studied," Schultheiss said.
-CANADIAN NEWS ANCHOR SHARES VIRAL VIDEO OF HER SWALLOWING FLY DURING LIVE BROADCAST
-Ants generally live in colonies, sometimes consisting of millions of them divided into groups with different roles such as workers, soldiers, and queens. The workers, all females, care for the bigger queen and her offspring, maintain the nest, and forage for food. Males mate with queens, then die.
-"Some ants can certainly be very annoying, but that's a very human-centered perspective," Schultheiss said.
-
-Source: https://www.foxnews.com/science/researchers-estimate-global-ant-population-reached-20-quadrillion
-Title: Researchers estimate global ant population has reached 20 quadrillion | Fox News
-Content: 00:47
-Video shows the moment a kayaker was briefly swallowed by whale off Chile
-00:29
-Dramatic video shows jet owned by Mötley Crüe's Vince Neil plow into parked plane
-00:31
-Two rare black wolves seen crossing stream in Polish forest
-02:13
-Griff Jenkins: The 'race to Mars is on'
-00:30
-‘Super pod’ of dolphins off California coast captured on drone footage
-01:23
-Debris from SpaceX Starship streaks through the sky
-00:14
-Aftermath of Starship Flight 7's break-up caught on camera
-00:06
-SpaceX Starship rocket debris seen from Turks and Caicos
-03:28
-Starship Flight 7 launches from Starbase, Texas before its upper stage was lost
-05:25
-Blue Origin's unmanned 'New Glenn' rocket launches
-close
-Video
-Fox News Flash top headlines for September 20
-Fox News Flash top headlines are here. Check out what's clicking on Foxnews.com.
-The world's human population is forecast to surpass 8 billion in the coming months. Compared to ants, that is a mediocre milestone.
- Source: https://www.entu.cas.cz/en/news-events/news/6620-how-many-ants-live-in-the-world-and-are-all-the-ants-as-heavy-as-the-humankind-/
-Title: INSTITUTE OF ENTOMOLOGY | How many ants live in the world? And are all the ants as heavy as the humankind?
-Content: A recent study in the prestigious American journal PNAS by Schultheiss and colleagues has refined estimates of how many ants live in the world and how much they weigh. It estimated that they are approximately 2.5 million worker ants for every human, and all of the ants in the world weigh as much as a fifth of the human population on Earth. The study was followed up by a comment in the same journal by researchers Tom Fayle and Petr Klimeš from the Biology Centre of the Czech Academy of Sciences (BC CAS), who introduced how estimates of the abundance and biomass (carbon weight) of ants have changed over time, and pointed out that we still do not know the abundance of insects as a whole. Ants are thus one of the few invertebrates for which new research has made such estimates possible. However, according to Fayle and Klimeš, we still have to wait for more accurate numbers, and it is likely that ant numbers and biomass are even larger.
-
-Source: https://opencurriculum.org/6125/8ee-ants-versus-humans/
-Title: 8.EE Ants versus humans  ‹ OpenCurriculum
-Content: 8.EE Ants versus humans ‹ OpenCurriculum
-8.EE Ants versus humans
-Illustrative Mathematics's files
-The average mass of an adult human is about 65 kilograms while the average mass of an ant is approximately \(4 \times 10^{-3}\) grams. The total human population in the world is approximately 6.84 billion, and it is estimated there are currently about 10,000 trillion ants alive.
+Source: https://www.lomitpatel.com/articles/best-ai-startups-to-build-in-2025-opportunities-for-success/
+Title: Best AI Startups to Build in 2025: Opportunities for Success - Lomit Patel
+Content: : Design your product to grow with your customer base.
+Stay Ahead of Regulations
+: Ensure your AI solutions comply with data privacy and ethical standards.
+Prioritize User Experience
+: Make your AI tools intuitive and easy to use.
+Conclusion
+The
+AI startup
+landscape in 2025 offers immense opportunities for founders willing to innovate and solve pressing problems. Whether you’re building for specialized industries, sustainability, or business workflows, the key to success lies in understanding market needs, delivering real value, and staying grounded amidst the hype.
+For aspiring entrepreneurs, the best AI startups to build are those that don’t just ride the wave of innovation but shape its direction. Focus on making an impact, and the rewards will follow.
+Subscribe to my
+LEAN 360 newsletter
+to learn more about startup insights.
+AI
+Artificial Intelligence
+Startups
 1
-Based on these values, how does the total the total mass of all living ants compare to the total mass of all living humans?
-1: Holldobler, B., E. Wilson,
-Journey to the Ants: A Story of Scientific Exploration
-(London, England: The Belknap Press of Harvard University, 1994).
-Commentary
+Author
+Lomit Patel
 
-Source: https://www.entu.cas.cz/en/news-events/news/6620-how-many-ants-live-in-the-world-and-are-all-the-ants-as-heavy-as-the-humankind-/
-Title: INSTITUTE OF ENTOMOLOGY | How many ants live in the world? And are all the ants as heavy as the humankind?
-Content: We will have to wait for more accurate estimates. However, it is already apparent and somewhat alarming that neither ants (range of all estimates 3.6 – 50 Mt) nor humans (60 Mt) achieve such huge biomass weights as domestic animals (100 Mt carbon). Even so, the weight of ants and humans far exceeds the weight of, for example, all wild birds (
-Graph
-). The next step in today's rapidly changing world is thus a deeper understanding of how the abundance and biomass of insects and other organisms differ between natural and altered landscapes.
-Many species of ants show polymorphism in the body size of workers. An extreme case is in the genus
-Carebara
-, where tiny yellow workers and giant dark workers (soldiers) live side by side in the same colony, and differ in their dry weight by approximately five hundred times. Photo of
-Carebara affinis
-, Papua New Guinea (by Philipp Otto Hönle).
-
-Source: https://opencurriculum.org/6125/8ee-ants-versus-humans/
-Title: 8.EE Ants versus humans  ‹ OpenCurriculum
-Content: \begin{align} \left( 6.5 \times 10^4 \text{g} \right) \left(6.84 \ \text{billion} \right) &= \left( 6.5 \times 10^4 \text{g} \right) \left(6.84 \times 10^9 \right)\\ &= \left( 6.5 \times 6.84 \right) \left(10^4 \times 10^9 \right) \text{g}\\ &= 44.46 \times 10^{4+9} \text{g}\\ &= \left(4.446 \times 10^1\right) \times 10^{13} \text{g}\\ &= 4.446 \times 10^{14} \text{g.} \end{align}
-Thus, the total mass of all humans in the world is greater than the total mass of all ants in the world. In fact, the calculations above show the total mass of all humans in the world is about 10 times the total mass of all ants.
-Ants versus humans
-by
-illustrativemathematics
-, used under
-CC-BY-NC-SA 3.0
-Add new
-Add an OpenCurriculum resource
-Add / remove standards
-
-Source: https://www.entu.cas.cz/en/news-events/news/6620-how-many-ants-live-in-the-world-and-are-all-the-ants-as-heavy-as-the-humankind-/
-Title: INSTITUTE OF ENTOMOLOGY | How many ants live in the world? And are all the ants as heavy as the humankind?
-Content: 18
-individuals, but the reliability of this estimate cannot yet be empirically verified. Nevertheless, the question remained of whether we can refine our abundance estimates for at least some groups of insects. Ants - a socially living and ecologically significant group - belong to the most prominent representatives of insects with large populations. And it was this group of insects who were made famous by biologist Edward O. Wilson, who compared their weight to the weight of all the humans. However, this consideration, like all previous studies, was based on the rough estimate of the total number of insects. Schultheiss et al. for the first time based their calculations on actual measured numbers of ant workers in leaf-litter, collected from hundreds of studies from most habitats of the world. This most recent work estimated the total population of worker ants at 2 × 10
-16
-(20 quadrillion), equivalent to 20% of current human biomass (
-Graph
-).
-Graph
-
-Source: https://opencurriculum.org/6125/8ee-ants-versus-humans/
-Title: 8.EE Ants versus humans  ‹ OpenCurriculum
-Content: Solutions
-Solution:
-1
-We are told the total number of ants in the world is about 10,000 trillion or \(10,000 \times 10^{12} = 10^4 \times 10^{12} = 10^{16}\) ants. In addition, the average mass of a single ant is \(4 \times 10^{-3}\) grams. Thus, the approximate total mass of all ants in the world is $$ \left( 4 \times 10^{-3} \text{g} \right) \left(10^{16}\right) = 4 \times 10^{-3+16} \text{g} = 4 \times 10^{13} \text{g.}$$
-The mass for humans is given in kilograms while the mass for ants is in grams. We convert the unit of mass for a human to grams as follows, $$\left(65 \text{kg}\right) \left(\frac{10^3 \text{g}}{1 \text{kg}} \right) = \left( 65 \times 10^3 \right) \text{g} = \left(6.5 \times 10^1 \right) \left(10^3 \right) \text{g} = 6.5 \times 10^{1+3} \text{g} = 6.5 \times 10^4 \text{g.}$$ Since there are 6.84 billion humans on earth, the total mass of all humans on earth can be approximated as
-
-Source: https://www.entu.cas.cz/en/news-events/news/6620-how-many-ants-live-in-the-world-and-are-all-the-ants-as-heavy-as-the-humankind-/
-Title: INSTITUTE OF ENTOMOLOGY | How many ants live in the world? And are all the ants as heavy as the humankind?
-Content: 16
-(20 quadrillion), equivalent to 20% of current human biomass (
-Graph
-).
-Graph
-. Changes in estimates of (A) abundance of individuals and (B) weight of dry biomass in megatons of carbon (Mt C) of ants. In red on the right is the most recent range of estimates from Schultheiss et al. (2022). The known or estimated total global biomasses of other groups, including humans, are indicated on the right. Literary sources to create the image are available in the article Fayle T. M., Klimeš P. (2022).
-
-Source: https://www.entu.cas.cz/en/news-events/news/6620-how-many-ants-live-in-the-world-and-are-all-the-ants-as-heavy-as-the-humankind-/
-Title: INSTITUTE OF ENTOMOLOGY | How many ants live in the world? And are all the ants as heavy as the humankind?
-Content: But is it possible that the ant abundance and biomass is greater and Wilson was not mistaken in his rough estimate? Tom Fayle and Petr Klimeš point out that these new estimates do not take into account species living in the soil and ant queens and brood. It is also not clear how the current estimates would change if differences in the weight of individual ants between different species could be taken into account in future calculations, rather than just using an estimate of the weight of the average ant. Ant species vary dramatically in body size and for many species this is true even within a single colony. Similarly, the colonies themselves vary in size, but their numbers are largely unknown. While counting individual ants in leaf-litter has proven feasible, counting nests on a global scale is not yet possible. The total biomass of ants is thus probably even greater. On the other hand, it is likely that current calculations, on the contrary, overestimate the number of ants in some
-
-Source: https://www.entu.cas.cz/en/news-events/news/6620-how-many-ants-live-in-the-world-and-are-all-the-ants-as-heavy-as-the-humankind-/
-Title: INSTITUTE OF ENTOMOLOGY | How many ants live in the world? And are all the ants as heavy as the humankind?
-Content: INSTITUTE OF ENTOMOLOGY | How many ants live in the world? And are all the ants as heavy as the humankind?
-Biology Centre CAS
-Institute of Entomology
-Institute of Hydrobiology
-Institute of Parasitology
-Institute of Plant Molecular Biology
-Institute of Soil Biology and Biogeochemistry
-Search
-INSTITUTE OF ENTOMOLOGY
-Biology Centre CAS
-News & Events
->
-How many ants live in the world? And are all the ants as heavy as the humankind?
-Date: 14.10.2022
-How many ants live in the world? And are all the ants as heavy as the humankind?
-
-Source: https://www.entu.cas.cz/en/news-events/news/6620-how-many-ants-live-in-the-world-and-are-all-the-ants-as-heavy-as-the-humankind-/
-Title: INSTITUTE OF ENTOMOLOGY | How many ants live in the world? And are all the ants as heavy as the humankind?
-Content: Carebara affinis
-, Papua New Guinea (by Philipp Otto Hönle).
-The huge biomass of ants can even support the biomass of other ant species, for example specialized ant hunters. An example of this strategy are army ants of the genus
-Aenictus
-that steal brood from other ants and accumulate them to feed their own brood later. Photo from Papua New Guinea (by: Philipp Otto Hönle).
-The text of the research article is freely available here:
-Fayle T. M., Klimeš P. (2022)
-Improving estimates of global ant biomass and abundance.
-Proceedings of the National Academy of Sciences (PNAS):
-119 (42), e2214825119
-https://www.pnas.org/doi/10.1073/pnas.2214825119
-Original study:
-Schultheiss et al. (2022) The abundance, biomass, and distribution of ants on Earth.
-Proceedings of the National Academy of Sciences (PNAS):
-119 (40), e2201550119
-Back
-CONTACT
-Biology Centre CAS
-Institute of Entomology
-Branišovská 1160/31
-370 05 České Budějovice
-Phone:
-+420 385 310 350
-Fax:
-+420 387 775 980
-E-mail:
-entu@entu.cas.cz
- Source: https://www.nbcnews.com/science/science-news/ants-how-many-number-earth-planet-population-humans-rcna48534
-Title: Earth's ant population of 20 quadrillion outnumbers humans by 2.5 million times, study says
-Content: affected by threats such as climate change
-.
-"Our results provide a crucial baseline for exploring environmental drivers of ant-abundance patterns and for tracking the responses of insects to environmental change," the scientists wrote in the study, which was published Monday in the
-journal Proceedings of the National Academy of Sciences
-.
-The study also estimated that the total mass of ants on the planet works out to roughly 12 megatons of dry carbon, a huge sum that hints at their ubiquity, said Mark Wong, a Forrest Fellow in the School of Biological Sciences at the University of Western Australia.
-Taken together, the total mass of ants on the planet would actually outweigh all of the world’s wild birds and mammals, he added.
-"We found that there are literally tons of ants on Earth, which really underscores their ecological value," Wong
-said in a statement
-.
-Jorge Villalba / Getty Images / iStockphoto
-
-Source: https://www.nbcnews.com/science/science-news/ants-how-many-number-earth-planet-population-humans-rcna48534
-Title: Earth's ant population of 20 quadrillion outnumbers humans by 2.5 million times, study says
-Content: Earth's ant population of 20 quadrillion outnumbers humans by 2.5 million times, study says
-IE 11 is not supported. For an optimal experience visit our site on another browser.
-Skip to Content
-Scientists have estimated the number of ants that roam the planet: a mind-bending 20 quadrillion insects.
-Thitiphat555 / Getty Images /iStockphoto
+Source: https://www.lomitpatel.com/articles/best-ai-startups-to-build-in-2025-opportunities-for-success/
+Title: Best AI Startups to Build in 2025: Opportunities for Success - Lomit Patel
+Content: Best AI Startups to Build in 2025: Opportunities for Success - Lomit Patel
+Articles
+Best AI Startups to Build in 2025: Opportunities for Success
 By
-Denise Chow
-To say that ants outnumber people on Earth would be a gross understatement. According to a new study, there are estimated to be 2.5 million times more ants on this planet than people.
-In total, that's 20 quadrillion — or 20,000,000,000,000,000 — ants.
-A team of researchers from Australia, Germany and Hong Kong analyzed 489 studies that gathered data on ground- and tree-dwelling ants in different habitats across all continents to come up with the mind-bending estimate. The research could help scientists understand the role that ants play in ecosystems and provide a way to assess how these insects and others are
-
-Source: https://www.nbcnews.com/science/science-news/ants-how-many-number-earth-planet-population-humans-rcna48534
-Title: Earth's ant population of 20 quadrillion outnumbers humans by 2.5 million times, study says
-Content: said in a statement
-.
-Jorge Villalba / Getty Images / iStockphoto
-Ants can be found in nearly all habitats except for polar regions, according to the study. Forests and arid parts of the planet had the most ant specimens, while tropical zones had the highest density of ant populations, the researchers found.
-"Our results show that the numbers of ants are highest in the tropics, which include areas facing some of the strongest pressures from human disturbances and environmental change," Wong said in the statement.
-The scientists called the new estimate conservative and said more research is needed to assess the role that ants play in their terrestrial ecosystems.
-"Per hectare, ants move up to 13 tons of soil mass per year," study lead author Patrick Schultheiss, a biologist at the University of Würzburg in Germany,
-said in a statement
-. As such, "they have a great influence on maintaining the nutrient cycle and also play a decisive role in the distribution of plant seeds."
-
-Source: https://www.nbcnews.com/science/science-news/ants-how-many-number-earth-planet-population-humans-rcna48534
-Title: Earth's ant population of 20 quadrillion outnumbers humans by 2.5 million times, study says
-Content: Previous studies have had worrying outlooks for the world's insect populations. A series of studies published in January 2021 in the Proceedings of the National Academy of Sciences found that climate change, invasive species, light pollution, changes in agriculture and the use of insecticides and herbicides are collectively causing the
-loss of around 1% to 2% of Earth's insects each year
-.
-A separate study published in April 2020 in the journal Science found that the planet has
-lost more than one-quarter of its land-dwelling insects in the past 30 years
-.
-"Ants provide key ecological services — not only in natural systems but also in our farms, plantations, parks and cities — so it is in our best interest to monitor populations and investigate how they are responding to warming climates," Wong said.
-Denise Chow
-Denise Chow is a science and space reporter for NBC News.
- Source: https://thefactbase.com/all-the-ants-on-earth-weigh-about-as-much-as-all-the-humans/
-Title: All the ants on earth weigh about as much as all the humans | The Fact Base
-Content: All the ants on earth weigh about as much as all the humans | The Fact Base
-Home
-Our Team
-Contact
-All the ants on earth weigh about as much as all the humans
-By
-Morgan Wallace
-Published in
-Animals
-February 02, 2024
-2
-min read
-All the ants on Earth weigh about as much as all the humans.
-Ants, these tiny creatures that are often seen as a nuisance, play a significant role in the overall weight of living organisms on our planet. Surprisingly, the combined weight of all the ants on Earth is about equal to the weight of all the humans. This intriguing fact highlights the incredible numbers and remarkable capabilities of these minuscule insects.
-
-Source: https://www.bbc.com/news/magazine-29281253
-Title: Are all the ants as heavy as all the humans? - BBC News
-Content: Are all the ants as heavy as all the humans? - BBC News
-Image source,
-Thinkstock
-By Hannah Moore
-BBC News
-"If we were to weigh all the ants in the world, they would weigh as much as all of the people," said wildlife presenter Chris Packham recently in BBC Four's The Wonder Of Animals: Ants. But is this statement true?
-This claim was originally made by Harvard University professor Edward O Wilson, and the German biologist Bert Hoelldobler, in their 1994 book Journey To The Ants.
-They based their estimate on an earlier one by British entomologist C B Williams, who once calculated that the number or insects alive on earth at a given moment was one million trillion.
-"If, to take a conservative figure, one percent of this host is ants, their total population is ten thousand trillion," wrote Wilson and Hoelldobler. "Individual workers weigh on average between 1 to 5 mg, according to the species. When combined, all ants in the world taken together weigh about as much as all human beings."
-
-Source: https://thefactbase.com/all-the-ants-on-earth-weigh-about-as-much-as-all-the-humans/
-Title: All the ants on earth weigh about as much as all the humans | The Fact Base
-Content: Ants are also proficient agriculturalists. Certain species cultivate fungus as their primary food source, effectively creating their miniature farms. They forage for plant material, bring it back to their colonies, and use it to cultivate fungus gardens. In some instances, ants even rear aphids, protecting and milking them for the sugary secretions they produce.
-In conclusion, the fact that all the ants on Earth weigh about as much as all the humans is a testament to both the astonishing numbers and the immense contributions of ants to our planet. These tiny creatures, despite their size, play a crucial role in ecosystems, maintaining balance and aiding in the process of decomposition. So, the next time you spot an ant scurrying across the ground, remember the extraordinary weight they collectively hold on Earth.
-Source:
-BBC: How many ants are there on the planet?
-Tags
-#General
-#Animals
+Lomit Patel
+November 21, 2024
+6 Mins Read
 Share
-Previous Article
+Facebook
+Twitter
+LinkedIn
+Email
+You are here:
+Home
+»
+Articles
+»
+Best AI Startups to Build in 2025: Opportunities for Success
+The artificial intelligence (
+AI
+) boom is far from over, and as we approach 2025, the landscape for the best AI
+startups
+is promising and competitive. With industries embracing AI-driven solutions, the opportunities to build transformative startups are immense. However, success in this rapidly evolving market requires a keen understanding of where the real opportunities lie.
+Here’s a look at the best types of AI startups poised to thrive in 2025, enriched by my expertise as an AI leader and author of
+Lean AI
+, and grounded in key industry trends, emerging needs, and market opportunities.
+1.
+AI for Specialized Industries
 
-Source: https://www.bbc.com/news/magazine-29281253
-Title: Are all the ants as heavy as all the humans? - BBC News
-Content: Even by Wilson and Hoelldobler's own figures, their calculation is wrong. There are 7.2 billion humans on the planet today - if we take everyone over the age of 15, they weigh a combined total of about 332bn kg. If we imagine there are 10,000 trillion ants in the world, weighing an average of 4mg, their total weight comes to just 40bn kg.
-If we allow for the smaller human population at the time they wrote their book, and a slightly lower average weight, they are still a long way out.
-But Ratnieks believes Wilson and Hoelldobler's claim - though untrue in relation to today's world population - would have once been accurate.
-"I think if we went back 2,000 years, certainly the ants would've outweighed the humans... but at roughly the time that America became independent [1776], or a little bit before that, that's when we humans became more impressive in our weight than the ants," he says.
+Source: https://www.sequoiacap.com/article/ai-in-2025/
+Title: AI in 2025: Building Blocks Firmly in Place | Sequoia Capital
+Content: Source: Earnings transcripts, public filings
+Oligopolistic dynamics are likely to set-in as well. Each of the Big Tech companies follows their rivals closely. If it looks like the industry is on a glide path to a “new normal,” that may be welcome news for all. It would provide further support for a new equilibrium in 2025 vs. continued ratcheting of spend.
+As new data center capacity comes online in 2025, AI compute prices should continue their epic decline. This is great news for startups and should incentivize net-new innovation. As we’ve pointed out in the past, startups are primarily consumers of compute vs. producers of compute, and so they benefit from overbuilding. The Big Tech companies are effectively creating a subsidy that will accrue to the entire AI ecosystem.
 
-Source: https://www.bbc.com/news/magazine-29281253
-Title: Are all the ants as heavy as all the humans? - BBC News
-Content: Another option is to weigh them in a group, says Mike Fox from BWARS: "I would simply take a suitable container such as a specimen tube and weigh it empty, then put in a counted number of ants, say 100. Weigh again. Deduct the weight of the empty tube and divide it by the number of ants."
-Discover more about the structured social system of ants
-With around 13,000 species worldwide, ranging in length from less than 1mm to 30mm, it's probable their weights vary greatly - though most experts seem to agree the average weight of an ant is less than 10mg.
-But no-one knows how many ants there are in the world. The BBC Four documentary claims they number not 10,000 trillion but 100 trillion, though it still suggests the total weight of ants equals the total weight of humans.
-Experts from the Natural History Museum, Bristol University's Ant Lab, and BWARS (Bees, Wasps and Ants Recording Society), among others, say there is no realistic estimate.
+Source: https://www.sequoiacap.com/article/ai-in-2025/
+Title: AI in 2025: Building Blocks Firmly in Place | Sequoia Capital
+Content: In 2024, the big model race was all about reaching parity with GPT-4. Five companies achieved this objective (or got close enough) and thus became “finalists:” Microsoft/OpenAI, Amazon/Anthropic, Google, Meta and xAI. Others dropped out of the race, most notably, Inflection, Adept and Character.
+To get to GPT-4 quality, these companies ran roughly the same playbook: Collect as much data as possible, train on as many GPUs as possible and refine the pre-training/post-training architecture to maximize performance. With talent moving fluidly across organizations in 2024, few trade secrets remain.
+As each player prepares for the next round of LLM scaling—which will likely involve another
+10x increase
+in compute scale—the labs are evolving differentiated superpowers. They have “chosen their weapons,” so to speak, for the battle ahead. In 2025, these distinct strategies should lead to disparate outcomes, with some players pulling ahead and others falling behind.
 
-Source: https://www.cbsnews.com/news/ants-earth-20-quadrillion-science-study/
+Source: https://www.lomitpatel.com/articles/best-ai-startups-to-build-in-2025-opportunities-for-success/
+Title: Best AI Startups to Build in 2025: Opportunities for Success - Lomit Patel
+Content: : Simplifying the process of taking AI models from development to production.
+AI Monitoring
+: Tools that track model performance, detect biases, and suggest improvements.
+Data Annotation
+: AI-assisted labeling tools to speed up the creation of high-quality training datasets.
+Low-Code AI Platforms
+: Solutions enabling non-technical users to build and deploy AI systems.
+By making AI accessible to more companies, these startups can unlock significant demand.
+How to Maximize Success
+Building an AI startup in 2025 will require more than a good idea. Here are some tips for ensuring your startup has the best chance of success:
+Solve Real Problems
+: Focus on creating tangible value rather than chasing hype.
+Understand Your Audience
+: Whether your audience is enterprises, small businesses, or consumers, tailor your solution to their needs.
+Build for Scalability
+: Design your product to grow with your customer base.
+Stay Ahead of Regulations
+
+Source: https://www.sequoiacap.com/article/ai-in-2025/
+Title: AI in 2025: Building Blocks Firmly in Place | Sequoia Capital
+Content: largest backers
+of new AI startups.
+With Big Tech feeling more confident, we think 2025 will be a stabilization year for AI CapEx. If 2024 was a scramble to sign deals for land and power, 2025 will be an execution year. Shovels are in the ground, and these companies will be focused on completing their new projects on-time and on-budget. They will then need to sell this installed capacity to customers and work with enterprises to help them achieve success with their new AI capabilities.
+After roughly doubling CapEx levels since pre-ChatGPT, we may see some normalization in 2025. The latest CapEx figures released in Q3 suggest that the trendline is already starting to stabilize inside of Microsoft and Google. Amazon and Meta are still ramping, but may reach steady state in early 2025. (While Meta looks flat in the chart below, the company has issued guidance for increased CapEx in Q4).
+Source: Earnings transcripts, public filings
+
+Source: https://www.sequoiacap.com/article/ai-in-2025/
+Title: AI in 2025: Building Blocks Firmly in Place | Sequoia Capital
+Content: 3. ROI will remain problematic and CapEx will begin to stabilize in 2025
+We’ve written about
+AI’s $200B question
+and
+AI’s $600B question
+, which explore the tremendous capital expenditure coming out of the Big Tech companies, and the lack of commensurate end-user revenue to derive a payback for these cash outlays.
+Going into 2024, the Big Tech companies were nervous about AI being a threat to their oligopoly in the cloud business. As we wrote in the “
+Game Theory of AI CapEx
+,” these companies felt they had no choice but to spend aggressively to ensure their continued dominance in an AI future. If they didn’t spend, others would, and they’d fall behind.
+Entering 2025, the picture has changed dramatically. Big Tech companies have their arms locked firmly around the AI revolution. Not only do they control the vast majority of the data centers that power AI, but they own significant equity stakes in the big model companies, and they are among the
+largest backers
+of new AI startups.
+ Source: https://www.ai-supremacy.com/p/emerging-architectures-in-ai
+Title: Emerging Architectures in AI  - by Michael Spencer
+Content: Agentic AI
+, and on the application layer with tremendously more capable GPUs and AI infrastructure. Broadcom itself is working with the likes of ByteDance, Apple and OpenAI on custom AI chips.
+In the decade ahead we are somewhat likely to find new kinds of emergent architectures that expand what we are able to do with LLMs or perhaps will be more efficient and open up new avenues, even as
+small language models
+, and
+world models
+continue to expand our horizons.
+AI pioneer Fei-Fei Li’s World Labs has raised $230 million to build “
+large world models
+” (LWMs) with a lot of experimentation at places like Google on world simulators. Google recently
+announced Genie 2
+, a foundation world model capable of generating an endless variety of action-controllable, playable 3D environments for training and evaluating embodied agents.
+Heading into 2025 we don’t know exactly what to expect. We do know that capex is only going to increase and national competition could accelerate innovation.
+
+Source: https://www.ai-supremacy.com/p/emerging-architectures-in-ai
+Title: Emerging Architectures in AI  - by Michael Spencer
+Content: Emerging Architectures in AI - by Michael Spencer
+AI Supremacy
+Subscribe
+Sign in
+Share this post
+AI Supremacy
+Emerging Architectures in AI
+Copy link
+Facebook
+Email
+Notes
+More
+Emerging Architectures in AI
+Liquid AI, Inference, Memory, Application layers updates, semiconductor potential. Super Datacenters.
+Michael Spencer
+Dec 16, 2024
+∙ Paid
+65
+Share this post
+AI Supremacy
+Emerging Architectures in AI
+Copy link
+Facebook
+Email
+Notes
+More
+12
+14
+Share
+Liquid AI founders Mathias Lechner, Alexander Amini, Daniela Rus and Ramin Hasani. Source: Katherine Taylor.
+Share
+AI Supremacy is a reader supported publication, sharing our work helps us grow and is very much appreciated.
+There’s something to be said for finding emergent architectures or new ways of doing things. Take Groq’s
+Language Processing Unit
+(
+LPU
+) a specialized
+AI accelerator designed
+to optimize the performance of artificial intelligence workloads, particularly in inference tasks. Or Sandbox AQ’s
+Large Quantitative Models
+, LQMs.
+
+Source: https://a16z.com/emerging-architectures-for-llm-applications/
+Title: Emerging Architectures for LLM Applications | Andreessen Horowitz
+Content: Emerging Architectures for LLM Applications | Andreessen Horowitz
+Emerging Architectures for LLM Applications
+Matt Bornstein
+and
+Rajko Radovanovic
+share
+Copy Link
+Email
+X
+LinkedIn
+Facebook
+Hacker News
+WhatsApp
+Flipboard
+Reddit
+Explore more: AI + a16z
+Table of Contents
+Table of Contents
+Posted June 20, 2023
+Large language models are a powerful new primitive for building software. But since they are so new—and behave so differently from normal computing resources—it’s not always obvious how to use them.
+In this post, we’re sharing a reference architecture for the emerging LLM app stack. It shows the most common systems, tools, and design patterns we’ve seen used by AI startups and sophisticated tech companies. This stack is still very early and may change substantially as the underlying technology advances, but we hope it will be a useful reference for developers working with LLMs now.
+
+Source: https://www.ai-supremacy.com/p/emerging-architectures-in-ai
+Title: Emerging Architectures in AI  - by Michael Spencer
+Content: Large Quantitative Models
+, LQMs.
+Or take Sakana AI’s
+Neural Attention Memory Models
+(NAMMs) that they say are a new kind of
+neural memory system
+for Transformers that not only boost their performance and efficiency but are also transferable to other foundation models, without any additional training.
+When we think of what’s ahead, Ilya Sutskever
+gave us a nice summary
+recently at NeurIPS, giving us additional context of the
+recent history of AI
+. If he confirmed that LLMs scaling has plateaued in terms of training data, this bottleneck allows for other innovations to take place. Deep learning never rests, even in pushing the boundaries of things like
+drug development
+and the future of biotechnology.
+Broadcom believes hyperscalers
+will deploy 1,000,000 XPU clusters
+across a single fabric as soon as 2027, which is 10x that of which xAI has today in terms of datacenter AI compute. In just a few short years, Scaling laws with be powered by a greater focus on inference, memory,
+Agentic AI
+
+Source: https://a16z.com/emerging-architectures-for-llm-applications/
+Title: Emerging Architectures for LLM Applications | Andreessen Horowitz
+Content: hosted
+somewhere. The most common solutions we’ve seen so far are standard options like Vercel or the major cloud providers. However, two new categories are emerging. Startups like Steamship provide end-to-end hosting for LLM apps, including orchestration (LangChain), multi-tenant data contexts, async tasks, vector storage, and key management. And companies like Anyscale and Modal allow developers to host models and Python code in one place.
+What about agents?
+The most important components missing from this reference architecture are
+AI agent frameworks
+.
+AutoGPT
+, described as “
+an experimental open-source attempt to make GPT-4 fully autonomous
+,” was the
+fastest-growing Github repo in history
+this spring, and practically every AI project or startup out there today includes agents in some form.
+
+Source: https://techcrunch.com/2025/02/26/inception-emerges-from-stealth-with-a-new-type-of-ai-model/
+Title: Inception emerges from stealth with a new type of AI model | TechCrunch
+Content: Inception emerges from stealth with a new type of AI model | TechCrunch
+Inception emerges from stealth with a new type of AI model | TechCrunch
+Image Credits:
+Inception
+AI
+Inception emerges from stealth with a new type of AI model
+Marina Temkin
+11:00 AM PST · February 26, 2025
+Inception
+, a new Palo Alto-based company started by Stanford computer science professor Stefano Ermon, claims to have developed a novel AI model based on “diffusion” technology. Inception calls it a diffusion-based large language model, or a “DLM” for short.
+The generative AI models receiving the most attention now can be broadly divided into two types: large language models (LLMs) and diffusion models. LLMs are used for text generation. Meanwhile, diffusion models, which power AI systems like
+Midjourney
+and OpenAI’s
+Sora
+, are mainly used to create images, video, and audio.
+
+Source: https://a16z.com/emerging-architectures-for-llm-applications/
+Title: Emerging Architectures for LLM Applications | Andreessen Horowitz
+Content: Experimenting with other proprietary vendors
+(especially Anthropic’s Claude models)
+:
+Claude offers fast inference, GPT-3.5-level accuracy, more customization options for large customers, and up to a 100k context window (though we’ve found accuracy degrades with the length of input).
+Triaging some requests to open source models:
+This can be especially effective in high-volume B2C use cases like search or chat, where there’s wide variance in query complexity and a need to serve free users cheaply.
+This usually makes the most sense in conjunction with fine-tuning open source base models. We don’t go deep on that tooling stack in this article, but platforms like Databricks, Anyscale, Mosaic, Modal, and RunPod are used by a growing number of engineering teams.
+
+Source: https://a16z.com/emerging-architectures-for-llm-applications/
+Title: Emerging Architectures for LLM Applications | Andreessen Horowitz
+Content: The tools and patterns we’ve laid out here are likely the starting point, not the end state, for integrating LLMs. We’ll update this as major changes take place (e.g., a shift toward model training) and release new reference architectures where it makes sense. Please reach out if you have any feedback or suggestions.
+Stay up to date on the latest from a16z Infra team
+Sign up for our a16z newsletter to get analysis and news covering the latest trends reshaping AI and infrastructure.
+Thanks for signing up.
+Check your inbox for a welcome note.
+MANAGE MY SUBSCRIPTIONS
+By clicking the Subscribe button, you agree to the
+Privacy Policy
+.
+Contributors
+Matt Bornstein
+is a partner at Andreessen Horowitz focused on AI, data systems, and infrastructure.
+Follow
+X
+Linkedin
+Rajko Radovanovic
+is an investing partner on the infrastructure team at Andreessen Horowitz.
+Follow
+X
+Linkedin
+More From These Contributors
+Building Developers Tools, From Docker to Diffusion Models
+
+Source: https://techcrunch.com/2025/02/26/inception-emerges-from-stealth-with-a-new-type-of-ai-model/
+Title: Inception emerges from stealth with a new type of AI model | TechCrunch
+Content: “What we found is that our models can leverage the GPUs much more efficiently,” Ermon said, referring to the computer chips commonly used to run models in production. “I think this is a big deal. This is going to change the way people build language models.”
+Inception offers an API as well as on-premises and edge device deployment options, support for model fine-tuning, and a suite of out-of-the-box DLMs for various use cases. The company claims its DLMs can run up to 10x faster than traditional LLMs while costing 10x less.
+“Our ‘small’ coding model is as good as [OpenAI’s]
+GPT-4o mini
+while more than 10 times as fast,” a company spokesperson told TechCrunch. “Our ‘mini’ model outperforms small open-source models like [Meta’s]
+Llama 3.1 8B
+and achieves more than 1,000 tokens per second.”
+“Tokens” is industry parlance for bits of raw data. One thousand tokens per second is
+an impressive speed indeed
+, assuming Inception’s claims hold up.
+Topics
+AI
+,
+diffusion
+,
+dlms
+,
+Funding
+,
+
+Source: https://www.ai-supremacy.com/p/emerging-architectures-in-ai
+Title: Emerging Architectures in AI  - by Michael Spencer
+Content: According
+to one estimate, the global AI market reached $196.63 billion in 2023 and could be worth $1.81 trillion by 2030. In Short, the AI market is expected to
+grow at a CAGR of 36.6% from 2024 to 2030
+reaching the remarkable figure of 1,811.75 million USD.
+Recently
+Omar Sanseviero
+of Hugging Face has released a book worth checking out if you dabble with LLMs, called
+Hands-On Generative AI with Transformers and Diffusion Models
+. It’s available at
+O’Reilly
+and
+Amazon
+. I’m not an affiliate, only an enthusiast. There are so many good books coming out around LLMs, those by
+Sebastian Raschka, PhD
+in my view
+are great
+.
+I want to talk especially about AMD’s best on Liquid AI and
+Ayar Labs
+and what their architectures might mean for the future.
+Upgrades at the Application Layer
+Keep reading with a 7-day free trial
+Subscribe to
+AI Supremacy
+to keep reading this post and get 7 days of free access to the full post archives.
+Start trial
+Already a paid subscriber?
+Sign in
+Previous
+Next
+Share
+ Source: https://community.intel.com/t5/Blogs/Tech-Innovation/Artificial-Intelligence-AI/Deciphering-the-AI-Startup-Ecosystem-Insights-from-the-Intel/post/1656987
 Title: 
-    20,000,000,000,000,000 ants are crawling around Earth, researchers find, weighing more in total than all birds and mammals combined - CBS News
-Content: 20,000,000,000,000,000 ants are crawling around Earth, researchers find, weighing more in total than all birds and mammals combined - CBS News
-Watch CBS News
-Small wonders: What ants can teach us
-Small wonders: What ants can teach us
-06:28
-Researchers have worked out an estimate for the number of
-ants crawling
-around Earth — and the total is "astounding."
-Scientists at the
-University of Hong Kong
-say there are 20,000,000,000,000,000 — that's 20 quadrillion — of the critters around the globe. The combined weight of those ants is more than all of the wild birds and mammals on the planet.
-The weight is also equal to about one-fifth of the total weight of humans. Scientists say the findings,
-published
-Monday in the peer-reviewed Proceedings of the National Academy of Sciences, are "conservative."
+	AI Startup Insights: Key Trends from Intel® Liftoff’s 2024 Report
 
-Source: https://theconversation.com/earth-harbours-20-000-000-000-000-000-ants-and-they-weigh-more-than-wild-birds-and-mammals-combined-190831
-Title: Earth harbours 20,000,000,000,000,000 ants – and they weigh more than wild birds and mammals combined
-Content: Our
-research
-published today provides an approximate answer. We conservatively estimate our planet harbours about 20 quadrillion ants. That’s 20 thousand million millions, or in numerical form, 20,000,000,000,000,000 (20 with 15 zeroes).
-We further estimate the world’s ants collectively constitute about 12 million tonnes of dry carbon. This exceeds the mass of all the world’s wild birds and wild mammals combined. It’s also equal to about one-fifth of the total weight of humans.
-Eminent biologist Edward O. Wilson once said insects and other invertebrates are “the little things that run the world” – and he was right. Ants, in particular, are a crucial
-part
-of nature. Among other roles, ants aerate the soil, disperse seeds, break down organic material, create habitat for other animals and form an important part of the food chain.
-Estimating ant numbers and mass provides an important baseline from which to monitor ant populations amid worrying environmental changes.
+Content: Report Inappropriate Content
+Jade-Worrall
+Employee
+‎01-16-2025
+12:00 AM
+0
+0
+1,755
+Everyone has an opinion about artificial intelligence & AI innovation, because we all get to see it transforming our work and our daily lives in front of us. But how often do we get to look behind the scenes to see what’s actually driving it all?
+How much is really known about the thriving ecosystem of AI startups - small but mighty innovators turning big ideas into transformative solutions?
+Intel’s
+AI Startup Index Report 2024,
+published by Intel® Liftoff for AI Startups, offers an insider’s view into the global startup ecosystem, uncovering key trends, challenges, and opportunities shaping the future of generative AI and AI powered innovation.
+Featured Startups
+SpySkyTech
+Lokal Ed
+Reama AI
+Alignment Lab AI
+Expanso
+Quantum Photonics
+Aleph Innovations
+Bezoku
+Venturely
+PeopleSense.AI
+Noodle4
+Kamiwaza Corp
+HEMOTAG
+Tinypesa
+Kode AI Limited
+Ultralytics
+CerebraAI
+kAI
+Spiky.ai
+Bloombase
+Net AI
+EpochZero
 
-Source: https://www.bbc.com/news/magazine-29281253
-Title: Are all the ants as heavy as all the humans? - BBC News
-Content: Wilson and Hoelldobler's calculation is based on the idea that the average human weighs a million times more than the average ant. So how well does that stand up to scrutiny? The average adult human weighs 62kg, so that would make the average ant about 60mg.
-"There are ants that weigh 60mg, but they're really the big ants," says Francis Ratnieks, Professor of Apiculture at the University of Sussex.
-"The common ants which live in British gardens weigh about 1mg or 2mg."
-How do you weigh an ant?
-Image source,
-Getty Images
-"It's very easy to weigh an ant. You buy a small electronic balance, and you place the ant on the balance," says Ratnieks. But he advises you refrigerate it first. "That way it doesn't run away."
+Source: https://community.intel.com/t5/Blogs/Tech-Innovation/Artificial-Intelligence-AI/Deciphering-the-AI-Startup-Ecosystem-Insights-from-the-Intel/post/1656987
+Title: 
+	AI Startup Insights: Key Trends from Intel® Liftoff’s 2024 Report
 
-Source: https://theconversation.com/earth-harbours-20-000-000-000-000-000-ants-and-they-weigh-more-than-wild-birds-and-mammals-combined-190831
-Title: Earth harbours 20,000,000,000,000,000 ants – and they weigh more than wild birds and mammals combined
-Content: typically measured
-in terms of their carbon makeup. We estimated that 20 quadrillion average-sized ants corresponds to a dry weight or “biomass” of approximately 12 million tonnes of carbon.
-This is more than the combined biomass of wild birds and mammals – and about 20% of total human biomass.
-Carbon makes up
-about half
-the dry weight of an ant. If the weight of other bodily elements was included, the total mass of the world’s ants would be higher still.
-We also found ants are distributed unevenly on Earth’s surface. They vary sixfold between habitats and generally peak in the tropics. This underscores the importance of tropical regions in maintaining healthy ant populations.
-Ants were also particularly abundant in forests, and surprisingly, in arid regions. But they become less common in human-made habitats.
+Content: ” - Harsh Verma, PeopleSense.AI
+The Engine of Transformation: AI Startups
+AI startups are the unsung heroes of the moment we are living through. While their innovations are (rightfully) in the limelight, the startups themselves - the brains and brawn behind it all - receive less attention. We believe that’s an oversight that we are in the best possible position to correct, because we’re at ground zero with some of the best and brightest of them all - not only in silicon valley, but around the globe.
+This report aims to take their unique challenges and perspectives, and package them in a digestible format for anyone who has a stake in the past, present and future of AI.
+Key Trends from the Report
+The
+Intel® Liftoff AI Startup Index Report 2024
+highlights several emerging trends and obstacles:
+Healthcare and IT Dominate
+: Healthcare and IT account for the lion’s share of startups, followed by other popular categories like energy, finance, manufacturing and customer service.
 
-Source: https://thefactbase.com/all-the-ants-on-earth-weigh-about-as-much-as-all-the-humans/
-Title: All the ants on earth weigh about as much as all the humans | The Fact Base
-Content: Ants, belonging to the insect order Hymenoptera, have a global distribution and can be found in almost every ecosystem on Earth. With over 12,000 known species, ants have successfully colonized various habitats, from deserts to rainforests and from cities to remote islands. They are highly social insects, living in large colonies with complex social structures.
-Due to their small size, ants may not individually weigh much, but their sheer numbers make a significant impact. Estimates suggest that there are trillions upon trillions of ants on Earth, with some studies suggesting that the number could potentially reach one million ants per human. This massive population contributes to the overall weight of ants, making it equal to the weight of mankind.
- Source: https://medium.com/@ThomasCrane/the-mighty-ants-a-surprising-revelation-of-earths-weighty-inhabitants-d87bac1ac84d
-Title: The Mighty Ants: A Surprising Revelation of Earth’s Weighty Inhabitants | by Thomas Crane | Medium
-Content: Weighing the Ants: A Startling Revelation
-The concept that the combined weight of all the ants on Earth surpasses the weight of all humans might seem implausible at first. However, this phenomenon is rooted in the sheer number of ants and their efficient organization in colonies.
-To estimate the total weight of ants, researchers have analyzed ant populations in various regions and extrapolated the data to encompass the entire planet. The calculations consider factors such as the average weight of an individual ant, the number of ants per colony, and the approximate number of ant colonies worldwide.
-The results of these estimates are staggering. It is believed that the total weight of ants on Earth is around 3 to 4 times greater than the weight of all human beings combined. While humans are undoubtedly larger and possess greater physical mass individually, the collective presence of ants far outweighs our combined biomass.
-The Ecological Impact of Ants
+Source: https://cloud.google.com/transform/future-of-ai-for-startups-23-industry-leaders-survey
+Title: What's next in AI for startups, from 23 industry leaders | Google Cloud Blog
+Content: What's next in AI for startups, from 23 industry leaders | Google Cloud Blog
+Startups
+The future of AI: 23 industry leaders on what's next in
+AI for startups
+February 26, 2025
+Darren Mowry
+Managing Director, Global Startups
+Join us at Google Cloud Next
+April 9-11 in Las Vegas
+Register
+“AI is transforming every organization around the world and represents an unprecedented opportunity to solve complex problems, drive growth, create efficiencies, and open up new business opportunities. This is particularly true for startups, who are moving very quickly to address new market opportunities with AI”
+- Thomas Kurian, CEO of Google Cloud.
+Startups are leading the generative AI charge by experimenting with new applications across industries, pushing the boundaries of what's possible, and advancing the technology's potential. They are the engine of gen AI innovation in a rapidly evolving landscape.
 
-Source: https://medium.com/@ThomasCrane/the-mighty-ants-a-surprising-revelation-of-earths-weighty-inhabitants-d87bac1ac84d
-Title: The Mighty Ants: A Surprising Revelation of Earth’s Weighty Inhabitants | by Thomas Crane | Medium
-Content: The Mighty Ants: A Surprising Revelation of Earth’s Weighty Inhabitants | by Thomas Crane | Medium
+Source: https://cloud.google.com/transform/future-of-ai-for-startups-23-industry-leaders-survey
+Title: What's next in AI for startups, from 23 industry leaders | Google Cloud Blog
+Content: This includes providing world-class infrastructure and full-stack capabilities at the forefront of innovation, engaging deeply with inventors on data, agents, and applications to help bring new outcomes to life, and partnering with enterprises to evaluate how AI advances can modernize experiences both inside and outside organizations.
+Our hope is that the
+Future of AI: Perspectives for Startups 2025
+report will shed more light on one of the fastest-moving technologies our industry has ever seen — and in particular, provide exciting guidance to founders who are imagining the next wave of innovative AI startups.
+No matter where you are with AI adoption, we’re here to help:
+Book
+your generative AI consultation today, get up to $350,000 in cloud credits with the
+Google for Startups Cloud Program
+, or
+contact
+our Startup sales team.
+Posted in
+Startups
+Related articles
+Startups
+A gift of perspective: Founders share their defining moments
+By Farris Pine • 2-minute read
+
+Source: https://community.intel.com/t5/Blogs/Tech-Innovation/Artificial-Intelligence-AI/Deciphering-the-AI-Startup-Ecosystem-Insights-from-the-Intel/post/1656987
+Title: 
+	AI Startup Insights: Key Trends from Intel® Liftoff’s 2024 Report
+
+Content: ” - Laura Hohmann, Expanso
+“In the next 3-5 years, significant AI trends will likely include the rise of foundation models, widespread adoption of AI in healthcare, and increased focus on ethical AI and regulation.
+” - Timur Tuspayev, Cerebra AI
+“
+AI systems will focus on continual learning, allowing models to adapt and update in real-time, making them more flexible and efficient.
+” - Emmanuel Ugwu, MicroFuse Technologies
+“
+The practical utility of customizable models will outpace non-personalized options, creating a new market of utilities and solutions as frameworks mature
+” - John Cook, Alignment Lab AI
+“
+Generative AI advancements will continue to revolutionize content creation and synthetic data, enabling faster decision-making and real-time analytics at the edge for smarter IoT and autonomous systems.
+” - Harsh Verma, PeopleSense.AI
+The Engine of Transformation: AI Startups
+
+Source: https://cloud.google.com/transform/future-of-ai-for-startups-23-industry-leaders-survey
+Title: What's next in AI for startups, from 23 industry leaders | Google Cloud Blog
+Content: Arvind Jain,
+CEO of Glean, emphasizes the importance of designing your infrastructure to be more agnostic to model and tooling advancements. Predict what’s coming and enable plug-and-play where feasible to take advantage of updates without massive overhauls or disruptions.
+Cloud providers will continue to play a central role, but successful organizations will build flexible systems that can seamlessly integrate new models and technologies. For a deep dive around into impactful trends like multimodal AI, customer experience, enterprise search, and more technical advancements,
+check out the full report
+.
+Priorities for investors in AI startups in 2025
+The AI investors in the report are zeroing in on startups that deliver concrete solutions to real-world challenges, moving beyond the initial AI hype.
+Salim Teja
+
+Source: https://enterpriseleague.com/blog/architecture-startups/
+Title: 17 architecture startups to keep an eye on in 2025
+Content: 17 architecture startups to keep an eye on in 2025
+Top Startups
+17 architecture startups to keep an eye on in 2025
+February 19, 2025
+This centuries old industry thats been at the forefront of implementing modern tech in order to come up with innovative solutions. From leveraging AI and generative design to optimize and automate building design, to connecting clients directly with architects through digital platforms, architecture startups are making the design process more accessible, sustainable, and human-centric.
+Top arcitecture startups
+Complete list of the most arcitecture startups that are worth knowing:
+Brixel
+
+Source: https://community.intel.com/t5/Blogs/Tech-Innovation/Artificial-Intelligence-AI/Deciphering-the-AI-Startup-Ecosystem-Insights-from-the-Intel/post/1656987
+Title: 
+	AI Startup Insights: Key Trends from Intel® Liftoff’s 2024 Report
+
+Content: HEMOTAG
+Tinypesa
+Kode AI Limited
+Ultralytics
+CerebraAI
+kAI
+Spiky.ai
+Bloombase
+Net AI
+EpochZero
+MicroFuse Technologies
+TECNOSIA OÜ
+Kalio
+Spooler
+Modus Africa
+Converge Bio
+Starwit Technologies GmbH
+DeepLeaf
+Enkrypt AI
+CLIKA
+Selecton Technologies
+Qbeast
+EdgeRunner AI
+CloudConstable Inc
+FlexAI
+Waveye
+Zerve AI
+Hasty.ai
+Pixel ML
+Epix AI
+FiveBrane
+GenVR Research
+SplxAI
+ToumAI
+Mizizi Ai
+Paravox AI
+Tolveet LLC
+VOTIX
+Lubu Technologies
+LastMinute
+Unsloth AI
+Undefine
+Hear From the Startups
+“
+AI for everyone: AI native apps and specialized model deployment will dominate future landscapes..
+.” - Kelvin Perea, kAI
+“
+Open-source enables faster development, is transparent, and creates trust.
+” - Markus Kett, MicroStream Software
+“
+The Open Source movement is the single biggest driver of AI innovation. It is at risk of over-regulation from bad actors with their own agenda.
+” - Laura Hohmann, Expanso
+
+Source: https://community.intel.com/t5/Blogs/Tech-Innovation/Artificial-Intelligence-AI/Deciphering-the-AI-Startup-Ecosystem-Insights-from-the-Intel/post/1656987
+Title: 
+	AI Startup Insights: Key Trends from Intel® Liftoff’s 2024 Report
+
+Content: AI Startup Insights: Key Trends from Intel® Liftoff’s 2024 Report
+Search
+Artificial Intelligence (AI)
+Discuss current events in AI and technological innovations with Intel® employees
+Success! Subscription added.
+Success! Subscription removed.
+Sorry, you must verify to complete this action. Please click the verification link in your email. You may re-send via your
+profile
+.
+Intel Community
+Blogs
+Tech Innovation
+Artificial Intelligence (AI)
+Deciphering the AI Startup Ecosystem: Insights from the Intel® Liftoff AI Startups Index Report
+681 Discussions
+Deciphering the AI Startup Ecosystem: Insights from the Intel® Liftoff AI Startups Index Report
+Subscribe
+Article Options
+Subscribe to RSS Feed
+Mark as New
+Mark as Read
+Bookmark
+Subscribe
+Printer Friendly Page
+Report Inappropriate Content
+Jade-Worrall
+Employee
+‎01-16-2025
+12:00 AM
+0
+0
+1,755
+
+Source: https://archinect.com/c4ablog/top-architecture-firms-leading-the-future-of-ai-innovation-in-design
+Title: Top Architecture Firms Leading the Future of AI Innovation in Design | Blogs | Archinect
+Content: Top Architecture Firms Leading the Future of AI Innovation in Design | Blogs | Archinect
+Submit
+Share/Follow
+Features
+News
+Events
+Competitions
+Jobs
+Talent Finder
+Active Employers
+People
+Firms
+Blogs
+Forum
+Work Updates
+Schools
+School Blogs
+Forum
+About Archinect
+Advertising
+Contact Us
+Newsletters
+Privacy Policy
+Features
+News
+Jobs
+Talent Finder
+People
+Firms
+Blogs
+Forum
+Schools
+School Blogs
+About
+Advertising
+Contact
+Newsletters
+Privacy
+Search Archinect
+Consulting For Architects, Inc. Hiring Trends.
+Design and Manage Your Career
+anchor
+Top Architecture Firms Leading the Future of AI Innovation in Design
+By
+David C. McFadden
+Jan 23, '25 2:29 PM EST
+0
+0
+Follow
+ Source: https://medium.com/@digvijay.qi/alternatives-to-transformer-based-architectures-3f41faeaacab
+Title: Alternatives to Transformer based Architectures | by Digvijay Y | Medium
+Content: Alternatives to Transformer based Architectures | by Digvijay Y | Medium
 Open in app
 Sign up
 Sign in
 Write
 Sign up
 Sign in
-The Mighty Ants: A Surprising Revelation of Earth’s Weighty Inhabitants
-Thomas Crane
+Alternatives to Transformer based Architectures
+Digvijay Y
 ·
 Follow
-4 min read
+2 min read
 ·
-Jul 26, 2023
+Feb 12, 2024
 --
+1
 Listen
 Share
-In the vast realm of Earth’s biodiversity, ants stand as one of the most astonishing and abundant creatures. Despite their tiny size, their collective presence leaves a profound impact on the planet. A mind-boggling fact reveals that the weight of all the ants inhabiting Earth is greater than the total weight of all human beings combined. This revelation presents a remarkable insight into the immense significance of these diminutive insects and highlights the interconnectedness of all life forms on our planet.
-The Remarkable World of Ants
+Transformers have revolutionized various AI fields, but research doesn’t stop there. Here are some promising alternatives and potential challengers to the Transformer architecture:
+Focus on attention mechanism:
+Recurrent Neural Networks (RNNs):
+Though computationally expensive, RNNs still find use in specific tasks where sequential context is crucial, like language modeling.
+Convolutional Neural Networks (CNNs):
+While primarily used for images, recent adaptations like ConvTransformers demonstrate potential for other domains.
+Sparse Attention:
+Attention in Transformers can be computationally expensive. Methods like Sparse Attention and Selective Attention aim to make it more efficient while retaining accuracy.
+Beyond Attention:
 
-Source: https://medium.com/@ThomasCrane/the-mighty-ants-a-surprising-revelation-of-earths-weighty-inhabitants-d87bac1ac84d
-Title: The Mighty Ants: A Surprising Revelation of Earth’s Weighty Inhabitants | by Thomas Crane | Medium
-Content: The Earth’s Oceans: Nature’s Enormous Underwater Museum
-The Earth’s oceans have always been a mysterious realm, captivating the human imagination with their vastness and…
-medium.com
-The Ant-Human Comparison: Lessons Learned
-Comparing the weight of ants to that of humans may be a humbling realization for our species. It serves as a reminder that size and physical strength are not the only metrics of importance in the natural world. Ants demonstrate the power of collective intelligence, teamwork, and adaptability.
-Observing how ants function as a cohesive unit, working together for the greater good of the colony, presents valuable lessons for humanity. Cooperation, communication, and division of labor have allowed ants to survive and thrive for millions of years, and these qualities could serve as an inspiration for human societies to address global challenges.
-Anthropomorphism and the Ant World
+Source: https://substack.tech-talk-cto.com/p/introducing-rwkv-an-alternative-to
+Title: Introducing RWKV - an alternative to transformers - and why alternatives matter
+Content: I strongly believe there is no such thing as "one architecture to rule them all"
+Additionally, i am aware there has since been developments like TransformerXL to more efficiently scale transformers, somewhere between quadratic cost, and linear cost. However with very limited known implementation of this method in public, it is hard for me to evaluate its pros and cons.
+1
+Share this post
+Tech Talk CTO
+Introducing RWKV - an alternative to transformers - and why alternatives matter
+Copy link
+Facebook
+Email
+Notes
+More
+Share
+Previous
+Discussion about this post
+Comments
+Restacks
+Top
+Latest
+Discussions
+No posts
+Ready for more?
+Subscribe
+Share
+Copy link
+Facebook
+Email
+Notes
+More
+This site requires JavaScript to run correctly. Please
+turn on JavaScript
+or unblock scripts
 
-Source: https://medium.com/@ThomasCrane/the-mighty-ants-a-surprising-revelation-of-earths-weighty-inhabitants-d87bac1ac84d
-Title: The Mighty Ants: A Surprising Revelation of Earth’s Weighty Inhabitants | by Thomas Crane | Medium
-Content: The Remarkable World of Ants
-Ants, the social insects belonging to the Formicidae family, comprise an astounding diversity of species, with over 12,000 identified worldwide. Their habitats range from scorching deserts to dense forests and bustling urban areas. Each ant species exhibits remarkable adaptations and behaviors that enable them to thrive in their respective environments.
-Ants live in highly structured colonies, each consisting of thousands to millions of individuals, where they divide labor, communicate through pheromones, and maintain complex social hierarchies. The astonishing ability of ants to work together and synchronize their actions is a testament to the power of collective effort and cooperation in the natural world.
-Weighing the Ants: A Startling Revelation
+Source: https://substack.tech-talk-cto.com/p/introducing-rwkv-an-alternative-to
+Title: Introducing RWKV - an alternative to transformers - and why alternatives matter
+Content: Introducing RWKV - an alternative to transformers - and why alternatives matter
+Tech Talk CTO
+Subscribe
+Sign in
+Share this post
+Tech Talk CTO
+Introducing RWKV - an alternative to transformers - and why alternatives matter
+Copy link
+Facebook
+Email
+Notes
+More
+Introducing ...
+Introducing RWKV - an alternative to transformers - and why alternatives matter
+For a healthier future in AI
+Eugene Cheah
+Sep 04, 2023
+1
+Share this post
+Tech Talk CTO
+Introducing RWKV - an alternative to transformers - and why alternatives matter
+Copy link
+Facebook
+Email
+Notes
+More
+Share
+The following is an abstract of some thoughts i had from the RWKV podcast found here:
+https://www.latent.space/p/rwkv#details
+Why Alternatives Matters ?
+Transformer architectures are currently at their peak with the AI revolution of 2023. However, in the rush to adopt them due to their recent success, it's easy to ignore alternatives that we can learn from.
 
-Source: https://medium.com/@ThomasCrane/the-mighty-ants-a-surprising-revelation-of-earths-weighty-inhabitants-d87bac1ac84d
-Title: The Mighty Ants: A Surprising Revelation of Earth’s Weighty Inhabitants | by Thomas Crane | Medium
-Content: Anthropomorphism and the Ant World
-Despite their incredible abilities, ants often go unnoticed and unappreciated by humans. Anthropomorphism, the attribution of human-like characteristics to non-human entities, frequently influences the way we perceive and interact with other species. When it comes to ants, their small size and sheer numbers often lead us to overlook their intricate social structures and capabilities.
-By acknowledging and understanding the complex world of ants, we can develop a greater appreciation for the diversity of life on Earth and foster a sense of interconnectedness with all living beings.
-Conservation Implications
-The staggering weight of ants on Earth should serve as a reminder of the importance of conserving all forms of life, no matter their size. As habitats continue to be threatened by human activities, it is essential to recognize the significance of each species in maintaining ecological balance.
+Source: https://www.forbes.com/sites/joannechen/2024/07/23/whats-next-after-transformers/
+Title: What's Next After Transformers
+Content: As my colleague Jaya
+explained
+: “The inertia around transformer architectures is real. Unless a new company bets big, we'll likely see incremental improvements rather than architectural revolutions. This is partly due to the massive investment in optimizing transformers at every level, from chip design to software frameworks. Breaking this inertia would require not just a superior architecture, but a willingness to rebuild the entire AI infrastructure stack.”
+Faced with such a herculean lift, most stakeholders opt for the familiar. Of course, this status quo is not set in stone. Eugene and the RWKV community certainly don’t seem to think so.
+RWKV: a potential alternative?
 
-Source: https://medium.com/@ThomasCrane/the-mighty-ants-a-surprising-revelation-of-earths-weighty-inhabitants-d87bac1ac84d
-Title: The Mighty Ants: A Surprising Revelation of Earth’s Weighty Inhabitants | by Thomas Crane | Medium
-Content: Ants, as ecosystem engineers and key contributors to nutrient cycling, are essential for the health and resilience of many ecosystems. Preserving their habitats and the biodiversity they support is crucial for the long-term sustainability of our planet.
-Conclusion
-The revelation that the collective weight of all the ants on Earth surpasses that of all humans combined is a remarkable fact that highlights the wonders of the natural world. It reminds us of the intricate web of life and the significant role each species plays in maintaining the balance of ecosystems.
-Ants, despite their small size, have a colossal impact on the planet. Their cooperative behavior, adaptability, and ecological contributions hold valuable lessons for human societies. By understanding and appreciating these fascinating creatures, we can gain insights into the importance of preserving biodiversity and working together to ensure a sustainable future for all life on Earth.
+Source: https://medium.com/@digvijay.qi/alternatives-to-transformer-based-architectures-3f41faeaacab
+Title: Alternatives to Transformer based Architectures | by Digvijay Y | Medium
+Content: Beyond Attention:
+Permutation Equivariant Architectures:
+These models excel at tasks with inherent order-dependent structures, like protein folding or graph problems, where Transformers might struggle.
+Liquid Neural Networks:
+Inspired by physics, these networks use continuous-time dynamics and offer potential for efficient learning and adaptation.
+Meta-Learning and Few-Shot Learning:
+These approaches tackle learning new tasks with minimal data, potentially surpassing standard training paradigms used in Transformers.
+Hybrid Approaches:
+Transformer-CNN hybrids:
+Combining strengths of both architectures for tasks like image captioning or visual question answering.
+Transformer-RNN hybrids:
+Leveraging RNNs for sequential aspects while benefiting from Transformer’s parallel processing for longer sequences.
+The Next Horizon:
+Quantum Machine Learning:
 
-Source: https://medium.com/@ThomasCrane/the-mighty-ants-a-surprising-revelation-of-earths-weighty-inhabitants-d87bac1ac84d
-Title: The Mighty Ants: A Surprising Revelation of Earth’s Weighty Inhabitants | by Thomas Crane | Medium
-Content: The Ecological Impact of Ants
-Ants have a profound ecological impact on the ecosystems they inhabit. As scavengers, they play a crucial role in decomposition, breaking down organic matter and recycling nutrients back into the environment. Additionally, many ant species are predatory, preying on smaller insects and invertebrates, thus controlling their populations and maintaining ecological balance.
-Moreover, ants are highly effective seed dispersers. They collect seeds from plants and disperse them across the landscape as they move between their nests and foraging sites. This activity promotes plant diversity and ensures the survival and expansion of various plant species.
-In certain regions, ants even act as ecosystem engineers by constructing elaborate nests that modify soil structure, water retention, and nutrient distribution. These modifications can influence the growth of plants and provide shelter for other organisms.
-The Earth’s Oceans: Nature’s Enormous Underwater Museum
+Source: https://substack.tech-talk-cto.com/p/introducing-rwkv-an-alternative-to
+Title: Introducing RWKV - an alternative to transformers - and why alternatives matter
+Content: However, over time as eventual consistency and NoSQL management overhead emerged, and hardware capabilities made giant leaps in SSD speed and capacity, we've seen a recent trend back to SQL servers for their simplicity and now sufficient scalability for 90%+ of startups.
+Does this mean SQL is better than NoSQL or vice versa? No, it simply means each technology has preferred use cases with pros/cons and learning points that can cross-pollinate among similar technologies.
+I hope you view this article as not an attack on transformers, but a healthy appreciation on alternatives. With that, lets get on to the main topic
+What is the biggest pain point for existing transformer architecture?
+Generally this covers compute, context length, datasets and alignment. For this discussion, we'll focus on compute and context length:
+Quadratic computational costs due to O(N^2) increase per token used/generated. This makes context sizes >100k incredibly expensive. Which impacts inference and training.
+
+Source: https://www.forbes.com/sites/joannechen/2024/07/23/whats-next-after-transformers/
+Title: What's Next After Transformers
+Content: What's Next After Transformers
+What's Next After Transformers
+By
+Joanne Chen
+Follow
+Save Article
+Comment
+Innovation
+Venture Capital
+What's Next After Transformers
+By
+Joanne Chen
+, Contributor.
+Joanne Chen is a General Partner at Foundation Capital.
+Follow Author
+Jul 23, 2024, 06:55pm EDT
+Save Article
+Comment
+I talk with Recursal AI founder Eugene Cheah about RWKV, a new architecture that
+This essay is a part of my series, “AI in the Real World,” where I talk with leading AI researchers about their groundbreaking work and how it's being applied in real businesses today. You can check out previous conversations in the series
+here
+.
+I recently spoke with Eugene Cheah, a builder who’s working to democratize AI by tackling some of the core constraints of transformers. The backbone of powerhouse models like GPT and Claude, transformers have fueled the generative AI boom. But they're not without drawbacks.
+
+Source: https://substack.tech-talk-cto.com/p/introducing-rwkv-an-alternative-to
+Title: Introducing RWKV - an alternative to transformers - and why alternatives matter
+Content: Other alternatives and its benefits we should probably learn from
+Diffusion Models
+: Slow to train for text, but extremely resilient to multi-epoch training. Figuring out why could help mitigate
+the token crisis
+Generative Adversarial Networks / Agents
+: techniques could be used to train desired skillsets, to a specific goal without datasets. Even for text based models
+Thanks for reading Tech Talk CTO! Subscribe for free to receive new posts and support my work.
+Subscribe
+Disclosure:
+I am a code contributor to the RWKV project, and an active member in the community.
+However it does not mean I view RWKV as the final answer, even if in the future where "Linear Transformers" beat out traditional "Transformer" networks in the future, research into alternatives is still important for healthy ecosystem development.
+I strongly believe there is no such thing as "one architecture to rule them all"
+
+Source: https://venturebeat.com/ai/mit-spinoff-liquid-debuts-non-transformer-ai-models-and-theyre-already-state-of-the-art/
+Title: MIT spinoff Liquid debuts small, efficient non-transformer AI models | VentureBeat
+Content: MIT spinoff Liquid debuts small, efficient non-transformer AI models | VentureBeat
+Skip to main content
+Join our daily and weekly newsletters for the latest updates and exclusive content on industry-leading AI coverage.
+Learn More
+Liquid AI
+, a startup co-founded by former researchers from the Massachusetts Institute of Technology (MIT)’s Computer Science and Artificial Intelligence Laboratory (CSAIL), has announced the
+debut of its first multimodal AI models
+: the “Liquid Foundation Models (LFMs).”
+Unlike most others of the current generative AI wave, these models are not based around the transformer architecture outlined in the
+seminal 2017 paper “Attention Is All You Need.”
+Instead, Liquid states that its goal “is to explore ways to build foundation models beyond Generative Pre-trained Transformers (GPTs)” and with the new LFMs, specifically building from “first principles…the same way engineers built engines, cars, and airplanes.”
+
+Source: https://medium.com/@digvijay.qi/alternatives-to-transformer-based-architectures-3f41faeaacab
+Title: Alternatives to Transformer based Architectures | by Digvijay Y | Medium
+Content: The Next Horizon:
+Quantum Machine Learning:
+While still in its nascent stages, quantum computing holds potential for revolutionizing AI, potentially offering architectures beyond current paradigms.
+Brain-inspired models:
+Understanding the human brain’s learning mechanisms could lead to entirely new AI architectures with superior performance and efficiency.
+It’s important to note that no single alternative might universally replace Transformers. Different problems and tasks might benefit from different architectures, and research continues to explore and develop various approaches. The future of AI likely lies in a diverse ecosystem of algorithms, each serving specific purposes and pushing the boundaries of what’s possible.
+Machine Learning
+Transformers
+Machine Learning Models
+Ml Architectures
+Follow
+Written by
+Digvijay Y
+14 Followers
+·
+2 Following
+Follow
+Responses (
+1
+)
+See all responses
+Help
+Status
+About
+Careers
+Press
+Blog
+Privacy
+Terms
+Text to speech
+Teams
+ Source: https://www.forbes.com/sites/garydrenik/2025/02/26/how-ai-startups-are-evaluating-the-latest-model-advancements/
+Title: How AI Startups Are Evaluating The Latest Model Advancements
+Content: How AI Startups Are Evaluating The Latest Model Advancements
+How AI Startups Are Evaluating The Latest Model Advancements
+By
+Gary Drenik
+Follow
+Save Article
+Comment
+Leadership
+Leadership Strategy
+How AI Startups Are Evaluating The Latest Model Advancements
+By
+Gary Drenik
+, Contributor.
+Gary Drenik is a writer covering AI, analytics and innovation.
+Follow Author
+Feb 26, 2025, 10:00am EST
+Save Article
+Comment
+AI Tools
+AdobeStock_1234976134_Editorial_Use_Only
+DeepSeek’s R1 is shaking up the AI landscape. Launched on January 20, this advanced reasoning model claims performance on par with OpenAI’s o1 — at just 2% of the cost. Unlike other frontier models reliant on high-end chips and massive datasets, R1 is optimized for older hardware and leverages novel reinforcement learning techniques, allegedly slashing training costs to $6 million.
+
+Source: https://blog.hum.works/posts/trending-in-ai-new-architectures-and-deeper-reasoning
+Title: Hum - Trending in AI: New Architectures and Deeper Reasoning
+Content: Hum - Trending in AI: New Architectures and Deeper Reasoning
+Search
+Artificial intelligence (AI) has seen massive advances in recent years, largely driven by new neural network architectures like transformers that power chatbots and large language models (LLMs). But as impressive as today's AI systems may be, they still lack robust reasoning abilities and struggle with complex multimodal inputs like images, figures, and text together.
+Choosing the right models
+, or the right mix of models, is key to driving innovation today, but exciting
+new startups and research initiatives are already working to create more versatile, polymathic AI architectures that will push these boundaries.
+In Hum’s newest whitepaper,
+The Bright Future of AI
+, we explored two key trends in play to make AI systems smarter and less narrow: New model architectures designed for scientific multimodal data, and efforts to move beyond reactive responses to deliberate, human-like reasoning.
+
+Source: https://cbi-www.lighthouse.ai/research/report/artificial-intelligence-top-startups-2024/
+Title: AI 100: The most promising artificial intelligence startups of 2024 - CB Insights Research
+Content: AI 100: The most promising artificial intelligence startups of 2024 - CB Insights Research
+The AI 100 is CB Insights' annual list of the top private AI companies in the world. From new AI architectures to precision manufacturing, this year’s winners are tackling some of the hardest challenges across industries.
+CB Insights is launching the 8th annual AI 100 — a ranking of the 100 most promising private AI companies in the world.
+Highlights from the 2024 cohort include:
+16 countries
+represented, from the US to France to South Africa
+30+ categories of solutions
+, from foundation models to humanoids
+68% early-stage
+startups
+building virtual worlds, autonomous factories, language models for under-represented languages, and more
+600+ business relationships
+since 2016 with industry leaders like Toyota, Netflix, and the World Bank
+
+Source: https://businessengineer.ai/p/30-rising-ai-startups-to-keep-an
+Title: 30+ Rising AI Startups to Keep An Eye On In 2025
+Content: 30+ Rising AI Startups to Keep An Eye On In 2025
+The Business Engineer
+Subscribe
+Sign in
+Share this post
+The Business Engineer
+30+ Rising AI Startups to Keep An Eye On In 2025
+Copy link
+Facebook
+Email
+Notes
+More
+30+ Rising AI Startups to Keep An Eye On In 2025
+Gennaro Cuofano
+Dec 26, 2024
+∙ Paid
+37
+Share this post
+The Business Engineer
+30+ Rising AI Startups to Keep An Eye On In 2025
+Copy link
+Facebook
+Email
+Notes
+More
+5
+Share
+What’s a good mental model to understand where we’re going next in AI ecosystem development?
+The AI Convergence explains which areas will be critical to look at in the next 10-30 years:
+The Business Engineer is a reader-supported publication. To receive new posts and support my work, consider becoming a free or paid subscriber.
+Subscribe
+The AI Convergence
+Gennaro Cuofano
+·
+October 31, 2024
+Many people mistakenly view the current AI paradigm as “another new industry.”
+Read full story
+In the three layers of AI
+,
+This post is for paid subscribers
+Subscribe
+
+Source: https://www.forbes.com/sites/garydrenik/2025/02/26/how-ai-startups-are-evaluating-the-latest-model-advancements/
+Title: How AI Startups Are Evaluating The Latest Model Advancements
+Content: Graphite
+— a platform for software engineers whose key differentiator is applying AI to software development and deployment roadblocks. For startups like Graphite, getting in early on powerful new technologies can help accelerate R&D and the launch of new products. If competitors fail to experiment and test the limits of new models like R1, those who do will be able to provide unique features and capabilities that set them apart.
+Lutsky continued, “Seeing companies like Snowflake and Cursor add support for DeepSeek within a week reinforces our view that both enterprises and startups building the AI application layer will remain model-agnostic, so they can quickly add support for state-of-the-art models.”
+
+Source: https://www.forbes.com/lists/ai50/
+Title: Forbes 2024 AI 50 List - Top Artificial Intelligence Startups
+Content: Other forms of AI development are seeing traction too. Take Anduril, which has raised $2.8 billion for defense tech; Insitro, which stockpiled a $643 million cash pile for drug discovery; or Figure AI, which raised $754 million to create humanoid robots. Then, there are companies that are seamlessly layering the latest advances in AI into their own apps. Abridge uses voice recognition and language summarization to deliver automated documentation of your visit to the doctor’s office. Notion is making inroads into uprooting Google Workspace or Microsoft Office, while Perplexity wants to reinvent the search engine. (Read more about Notion and Perplexity in our accompanying feature stories.)
+
+Source: https://blog.hum.works/posts/trending-in-ai-new-architectures-and-deeper-reasoning
+Title: Hum - Trending in AI: New Architectures and Deeper Reasoning
+Content: Architectures that support complex scene and world modeling remain largely theoretical but would vastly expand AI capabilities. Less reactive and more deliberative systems could mean assistants that study requests or tutors that work step-by-step. The shift from System 1 to System 2 is critical for enabling more general intelligence going forward.
+Are you ready for the Future of AI?
+As AI expands and companies lay the foundations for future reasoning engines, we’ll begin to see models grow more versatile and deliberative, genuinely grasping concepts instead of just recognizing patterns. The next generation of architectures could yield polymathic assistants able to collaborate with humans more as partners rather than just convenient tools.
+To explore other trends publishers need to know for an AI future,
+download a copy
+of The Bright Future of AI.
+You might like
+Growth
+Case Study: CRA Drives 1,000+ New Newsletter Sign-ups Using Data
+John Challice
+Mar 01, 2023
+Growth
+
+Source: https://www.forbes.com/sites/garydrenik/2025/02/26/how-ai-startups-are-evaluating-the-latest-model-advancements/
+Title: How AI Startups Are Evaluating The Latest Model Advancements
+Content: Prosper- Heard of DeepSeek AI
+Prosper Insights & Analytics
+Many of these executives, especially at cutting-edge AI companies, not only know about DeepSeek but are actively evaluating how and why they should adopt it. The affordable customization made possible with R1’s model is appealing for businesses seeking a competitive edge in customer-first AI markets, where advances in AI-powered services and customer support are key differentiators. “It's exciting to see an open-source model arrive that’s been trained for a fraction of the cost. It…bodes well for companies innovating AI at the application level,” said Bryan Murphy, CEO of AI translation solutions provider
+Smartling
+. “It's also a wakeup call to the hyperscalers that they're not moving fast enough." Case in point: to compete with DeepSeek, OpenAI accelerated its release of a new model, o3-mini, promising better performance at lower cost.
+MORE FOR YOU
+Oscars 2025 Full Winners List (Live Updates)
+
+Source: https://cbi-www.lighthouse.ai/research/report/artificial-intelligence-top-startups-2024/
+Title: AI 100: The most promising artificial intelligence startups of 2024 - CB Insights Research
+Content: The cohort has raised over $28B across 240+ equity deals since 2020 (as of 3/22/24).
+OpenAI
+has raised over 40% of that total, with $12B. Meanwhile, 25% of the winning companies have raised less than $10M, with some not having raised any venture funding.
+Just over two-thirds (68%) of winning companies
+are in the early stages of fundraising (seed/angel and Series A) or have yet to raise outside equity.
+Valuation trends
+This year’s list includes 19 unicorns with a $1B+ valuation.
+Meanwhile,
+Sakana AI
+— founded by one of the authors of the
+seminal Google research paper on Transformers
+— has the highest valuation per employee, at $67M. (It had just 3 employees when it earned its $200M valuation in early 2024.
+) Sakana is working on new “nature-inspired” AI architectures and recently released 3 Japanese-language models.
+Revenue generation
+The AI 100 includes a mix of companies at different stages of maturity, product development, and revenue.
+Hugging Face
+
+Source: https://www.forbes.com/lists/ai50/
+Title: Forbes 2024 AI 50 List - Top Artificial Intelligence Startups
+Content: They have also captured the attention of Silicon Valley investors at a time when the fundraising market continues to pose difficulty for other once-hot sectors. The companies on this year’s AI 50 have raised a total of $34.7 billion in funding. Nearly one-third of that total comes from OpenAI, thanks to some $10 billion from Microsoft. Much more comes from other ascendant AI research firms like Anthropic ($7.7 billion raised), Cohere ($445 million) and Mistral AI ($528 million). Underlying them are a slew of infrastructure tools that are helping companies to implement the technology. Many, like Baseten, LangChain and Unstructured, make their debuts on AI 50 after celebrating booming growth metrics in 2023.
