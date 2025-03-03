@@ -1,7 +1,7 @@
 
 
 import markdown
-from weasyprint import HTML
+import pdfkit
 
 
 def text_to_markdown(text, filename):
@@ -28,7 +28,7 @@ def text_to_markdown(text, filename):
 
 def markdown_to_pdf(md_file_path, pdf_file_path):
     """
-    Converts a Markdown file to a PDF.
+    Converts a Markdown file to a PDF using pdfkit.
 
     Args:
         md_file_path (str): Path to the input Markdown file.
@@ -42,7 +42,7 @@ def markdown_to_pdf(md_file_path, pdf_file_path):
         # Step 2: Convert Markdown to HTML
         html_content = markdown.markdown(markdown_content)
 
-        # Step 3: Add basic HTML structure (optional)
+        # Step 3: Add basic HTML structure
         full_html = f"""
         <!DOCTYPE html>
         <html>
@@ -76,11 +76,10 @@ def markdown_to_pdf(md_file_path, pdf_file_path):
         </html>
         """
 
-        # Step 4: Convert HTML to PDF using WeasyPrint
-        HTML(string=full_html).write_pdf(pdf_file_path)
+        # Step 4: Convert HTML to PDF using pdfkit
+        pdfkit.from_string(full_html, pdf_file_path)
 
         print(f"PDF successfully created at: {pdf_file_path}")
 
     except Exception as e:
         print(f"An error occurred: {e}")
-
