@@ -78,6 +78,7 @@ def run_agent_answer(config, prompt, chat_history):
             #print(os.path.exists(response["file_data"]))
             if True: # os.path.exists(response["file_data"]):
                 print(response["file_data"])
+                st.write(response["file_data"])
                 with open(response["file_data"], "rb") as file:
                     st.download_button(
                         label="Download File",
