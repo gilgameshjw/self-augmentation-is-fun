@@ -75,7 +75,8 @@ def run_agent_answer(config, prompt, chat_history):
         print(response)
         # If there is a file to download, display the download button
         if "file_data" in response:
-            if os.path.exists(response["file_data"]):
+            #print(os.path.exists(response["file_data"]))
+            if True: # os.path.exists(response["file_data"]):
                 with open(response["file_data"], "rb") as file:
                     st.download_button(
                         label="Download File",
