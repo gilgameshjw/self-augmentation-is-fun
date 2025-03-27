@@ -19,7 +19,8 @@ if os.path.exists(secrets_path):
     try:
         config = Config("config.yaml", \
                         st.secrets["OPENAI_API_KEY"], \
-                        st.secrets["TAVILY_API_KEY"])
+                        st.secrets["TAVILY_API_KEY"],
+                        st.secrets["STRIPE_API_KEY"])
     except Exception as e:
         print(e)
         
