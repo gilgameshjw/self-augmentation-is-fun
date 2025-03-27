@@ -9,6 +9,7 @@ def support_page_2(config):
     st.write(config.translations["support_text"])
 
     st.stripe = config.stripe_api_key
+    st.write(st.stripe)
 
     # Display donation options
     """
