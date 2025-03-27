@@ -9,7 +9,8 @@ class Config:
     def __new__(cls, 
                 config_path=None,
                 openai_api_key=None,
-                tavily_api_key=None
+                tavily_api_key=None,
+                stripe_api_key=None
     ):
         """Ensure only one instance of Config is created."""
         if cls._instance is None:
@@ -22,6 +23,7 @@ class Config:
                 # keys
                 cls._instance.openai_api_key = openai_api_key
                 cls._instance.tavily_api_key = tavily_api_key
+                cls._instance.stripe_api_key = stripe_api_key
                 # main attributes
                 cls._instance.llm_providers = cls._instance.config["llm_providers"]
                 cls._instance.report_types = cls._instance.config["report_types"]
@@ -42,6 +44,7 @@ class Config:
                 cls._instance.agent_llm = None
                 cls._instance.d_personalities = None
                 cls._instance.d_avatars = None
+                # payments
 
         return cls._instance
 
@@ -78,6 +81,10 @@ class Config:
         self.file_translations = self.config["translations"]["file_translations"]
         with open(self.file_translations, "r") as f:
             self.translations = yaml.safe_load(f)[language]
+
+    def set_payments(self):
+        self.stripe_api_key = self.config["payments"]["stripe"]["api_key"] \
+            if self.stripe_api_key is None else self.stripe_api_key
 
     def set_up_agent(self):
         # parameters

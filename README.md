@@ -37,8 +37,8 @@ The idea is simple yet powerful:
 ### **Get in Touch**
 Have questions, ideas, or feedback? We’d love to hear from you!  
 
-📧 **Email**: [jair.gpt@gmail.com](mailto:jair.gpt@gmail.com)  
-🌐 **Website**: [Coming Soon]  
+📧 **Email**: [wuilloud@gmail.com](mailto:wuilloud@gmail.com)  
+🌐 **Website**: [jairwuilloud.com](https://jairwuilloud.com)  
 
 ---
 

@@ -2,31 +2,36 @@ import streamlit as st
 import stripe
 
 # Configure Stripe API key
-stripe.api_key = "your-secret-key"  # Replace with your actual secret key
 
 def support_page_2(config):
     # Support page
     st.title(config.translations["support_title"])
     st.write(config.translations["support_text"])
 
+    st.stripe = config.stripe_api_key
+
     # Display donation options
-    donation_amounts = [10, 25, 50, 100]  # Predefined donation amounts
+    """
+    donation_amounts = [1, 5, 10, 25, 50, 100]  # Predefined donation amounts
     selected_amount = st.selectbox(
-        config.translations.get("select_donation", "Select Donation Amount"),
+        config.translations.get("select_donation", "Select Donation Amount in $"),
         donation_amounts,
         index=0
     )
+    """
 
     # Custom amount input
+    #"""
     custom_amount = st.number_input(
-        config.translations.get("custom_donation", "Or Enter Custom Amount"),
+        config.translations.get("custom_donation", "Custom Amount $"),
         min_value=1.0,
         step=1.0,
         format="%.2f"
-    )
+    )   
+    #"""
 
     # Use custom amount if provided, otherwise use selected amount
-    donation_amount = custom_amount if custom_amount > 0 else selected_amount
+    donation_amount = custom_amount # custom_amount if custom_amount > 0 else selected_amount
 
     # Collect user email for payment confirmation
     user_email = st.text_input(
@@ -68,4 +73,7 @@ def support_page_2(config):
             )
         except Exception as e:
             st.error(f"An error occurred: {str(e)}")
+
+
+
 

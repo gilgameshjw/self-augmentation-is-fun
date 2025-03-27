@@ -23,6 +23,9 @@ browsers:
   tavily:
     api_key: tvly-dev...
 
+payments:
+  stripe: 
+    api_key: sk_live_...
 
 agent:
   memory_depth: 5

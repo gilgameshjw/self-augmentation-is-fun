@@ -75,8 +75,13 @@ if "agent" not in st.session_state:
     config.set_up_agent()
     st.session_state["agent"] = "config.agent"
 
+if "payments" not in st.session_state:
+    # set payments
+    config.set_payments()
+    st.session_state["payments"] = "config.payments"
+
 # Top navigation bar
-pages = ["Chat", "About Us", "Support us", "Donate"]
+pages = ["Chat", "About Us", "Support"]
 selected_page = st.selectbox("Pages", pages, index=0)
 
 # Load the selected page
@@ -86,8 +91,8 @@ if selected_page == "Chat":
 elif selected_page == "About Us":
     about_us(config)
     
-elif selected_page == "Support us":
-    support_page(config)  # Call the Support page logic
+#elif selected_page == "Support us":
+#    support_page(config)  # Call the Support page logic
 
-elif selected_page == "Donate":
+elif selected_page == "Support":
     support_page_2(config)  # Call the Support page logic

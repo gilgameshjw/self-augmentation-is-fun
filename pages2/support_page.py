@@ -39,14 +39,14 @@ def support_page(config):
 
     # Display bank account details based on language
     if config.language == "en":
-        st.text_area("Bank Account Details (English)", config.translations["bank_account_en"])
+        st.text_area("Bank Account Details", config.translations["bank_account_en"])
 
     elif config.language == "kz":
-        st.text_area("Банк шотының деректері (Қазақша)", config.translations["bank_account_kz"])
+        st.text_area("Банк шотының деректері", config.translations["bank_account_kz"])
 
 
     # Add a file uploader for the user to upload an image
-    uploaded_file = st.file_uploader("Upload a background image (PNG or JPG)", type=["png", "jpg", "jpeg"])
+    #uploaded_file = st.file_uploader("Upload a background image (PNG or JPG)", type=["png", "jpg", "jpeg"])
 
     # Set the background image if a file is uploaded
     #set_background_image_from_file(uploaded_file)

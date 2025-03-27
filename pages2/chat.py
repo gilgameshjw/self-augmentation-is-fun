@@ -151,7 +151,7 @@ def chat(config):
     # Initialize session state for chat history if it doesn't exist
     if "chat_history" not in st.session_state:
         st.session_state.chat_history = []
-        response = run_agent_answer(config, "Introduce yourself and your tools are.", st.session_state.chat_history[:config.memory_depth])
+        response = run_agent_answer(config, "Introduce yourself and what your tools are.", st.session_state.chat_history[:config.memory_depth])
         
         #st.session_state.chat_history.append({"role": "assistant", "content": response["output"], "avatar": response["avatar"]})
 

@@ -4,10 +4,12 @@ en:
   support_title: "Support the Team"
   support_text: "Thank you for considering supporting our team. Below are the bank account details for contributions."
   bank_account_en: |
-    Account Name: Support Team Account
-    Account Number: 1234567890
-    Bank Name: Global Bank
-    SWIFT Code: GBANK123
+    Account Name: Jair Wuilloud
+    Account Number: 4400 4303 4168 9898 
+    Bank Name: AO Kaspi Bank
+    BIC: CASPKZKA
+    IBAN: KZ11722C000089086990
+
   bank_account_kz: |
     Шот атауы: Қолдау Командасының Шоты
     Шот нөмірі: 0987654321
