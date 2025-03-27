@@ -29,7 +29,6 @@ else:
 
 
 # set attributes
-st.write(config.config) # debug
 config.set_attributes()
 
 # set browser

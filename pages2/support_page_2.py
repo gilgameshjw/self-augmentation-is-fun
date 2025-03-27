@@ -8,8 +8,7 @@ def support_page_2(config):
     st.title(config.translations["support_title"])
     st.write(config.translations["support_text"])
 
-    st.stripe = config.stripe_api_key
-    st.write(st.stripe) # debug
+    stripe.api_key= config.stripe_api_key
 
     # Display donation options
     """
